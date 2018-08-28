@@ -16624,1704 +16624,393 @@ import_tables:
 蔗	zha4			
 湔	zian1			
 虒	ci2			
-愛好	ai4 hao3	
-愛好	ai4 hao4	
-璦琿	ai4 hui1	
-婆娑	ba1 sa1	
-八行	ba5 hang2	
-本紀	ben3 ji4	
-避難	bi4 lan4	
-屏息	bin3 syi5	
-屏住	bin3 zhu4	
-補給	bu3 ji5	
-參差	cen1 ci1	
-扯謊日白	che3 huang3 lia5 be5	
-扯謊日白	che3 huang3 ri5 be5	
-出差	chu5 chai1	
-茜色	cian4 se5	
-溱潼	cin1 tong2	
-秦檜	cin2 hui4	
-秦艽	cin2 jiao1	
-七行	cyi5 hang2	
-大將	da4 ziang4	
-燈泡	den1 pao1	
-吊喪	diao4 sang1	
-東莞	dong1 guan3	
-彷彿	fang3 fu5	
-家家	ga1 ga1	
-家公	ga1 gong1	
-咖喱	ga1 li2	
-咖哩	ga1 li2	
-家婆	ga1 po2	
-扛鼎	gang1 din3	
-高句麗	gao1 gou1 li2	
-鎬頭	gao1 tou2	
-叫花子	gao4 hua1 zi3	
-酵子	gao4 zi3	
-酵子水	gao4 zi3 shui3	
-蛤蚧	geo5 jiai4	
-蛤蜊	geo5 li4	
-挌搦	geo5 nie5	
-工行	gong1 hang2	
-供給	gong4 ji5	
-綸巾	guan1 jin1	
-廣陵散	guang3 lin2 san3	
-光頭	guang4 tou2	
-行情	hang2 cin2	
-行列	hang2 lie5	
-行業	hang2 nie5	
-膠起	hao1 qi3	
-豪商巨賈	hao2 shang1 ju4 gu3	
-好吃	hao3 chi5	
-好色	hao3 se5	
-好色	hao4 se5	
-好吃	hao4 chi5	
-好高騖遠	hao4 gao1 wu4 yuan3	
-好高務遠	hao4 gao1 wu4 yuan3	
-好謀善斷	hao4 mou2 shan3 duan3	
-好奇	hao4 qi2	
-好耍	hao4 shua3	
-好耍	hao3 shua3	
-好爲人師	hao4 wei2 ren2 si1	
-核核	hu5 hu5	
-回鶻	hui2 hu5	
-機車行	ji1 che1 hang2	
-奇偶	ji1 ou3	
-奇數	ji1 su4	
-紀錄	ji4 lu5	
-紀年	ji4 nian2	
-紀念	ji4 nian4	
-給回	ji5 hui2	
-給視	ji5 shi4	
-給水	ji5 shui3	
-給事	ji5 si4	
-給養	ji5 yang3	
-給予	ji5 yu3	
-建行	jian4 hang2	
-強脾氣	jiang4 pi2 qi4	
-交行	jiao1 hang2	
-教會	jiao1 hui4	
-敎會	jiao1 hui4	
-教會	jiao4 hui4	
-敎會	jiao4 hui4	
-躬起	jiong1 qi3	
-九行	jiu3 hang2	
-涓澮	juan1 kuai4	
-圈養	juan4 yang3	
-倔強	jue5 jiang4	
-龜裂	jun1 lie5	
-胯襠	ka4 dang1	
-胯腳	ka4 jio5	
-空缺	kong4 que5	
-摳胯	kou1 ka4	
-扣着	kou2 dao3	
-扣倒	kou2 dao3	
-扣起	kou2 qi3	
-佝瞀	kou4 mao4	
-會稽	kuai4 ji1	
-會計	kuai4 ji4	
-奶奶	lai1 lai1	
-囝囝	lan1 lan1	
-爛胯	lan4 ka4	
-難民	lan4 min2	
-肋巴骨	le5 ba1 gu5	
-罹難	li2 lan4	
-裂口	lia5 kou3	
-裂皮	lia5 pi2	
-兩行	liang3 hang2 	
-瞭解	liao3 jiai3	
-瞭然	liao3 ran2	
-瞭如	liao3 ru2	
-裂口	lie5 kou3	
-怜悧	lin2 li4	
-寧可	lin4 ko3	
-寧死不屈	lin4 si3 bu5 qu5	
-農行	long2 hang2	
-六行	Dlu5 hang2	
-累計	lui3 ji4	
-累積	lui3 zyi5	
-內鬨	lui4 hong4	
-抹乾	ma5 gan1	
-抹桌	ma5 zho5	
-沒空	mei1 kong4	
-抿抿甜	min1 min1 tian2	
-抿甜	min1 tian2	
-明瞭	min2 liao3	
-摩挱	mo2 so1	
-磨坊	mo4 fang2	
-磨房	mo4 fang2	
-磨盤	mo4 pan2	
-磨石	mo4 shi5	
-磨子	mo4 zi3	
-姥媽	mu3 ma1	
-穆棱	mu5 lin2	
-呢喃	ni2 lan2	
-銀行	nin2 hang2	
-婀娜	o1 lo2	
-阿房宮	o1 pang2 gong1	
-膀胱	pang2 guang1	
-掽倒	pang3 dao3	
-炮烙	pao2 lo5	
-憑倒	pen1 dao3	
-癖好	pi5 hao4	
-偏好	pian1 hao4	
-碰倒	pong4 dao3	
-鋪床	pu1 chuang2	
-鋪蓋	pu1 gai4	
-鋪路	pu1 lu4	
-鋪設	pu1 she5	
-鋪天蓋地	pu1 tian1 gai4 di4	
-噗鼾	pu5 han4	
-起鬨	qi3 hong4	
-犍爲	qian2 wei2	
-勸降	quan4 xiang2	
-人才濟濟	ren2 cai2 zyi3 zyi3	
-潵河	sa1 heo2	
-三行	san1 hang2	
-散架	san3 jia4	
-喪假	sang1 jia3	
-喪禮	sang1 li3	
-喪亂	sang1 luan4	
-喪事	sang1 si4	
-喪亡	sang1 wang2	
-騷淆	sao1 kao2	
-塞倒	se5 dao3	
-塞起	se5 qi3	
-閃倒	shan2 dao3	
-閃倒了	shan2 dao3 lo	
-單于	shan2 yu2	
-商賈	shang1 gu3	
-商賈雲集	shang1 gu3 yun2 zyi5	
-商行	shang1 hang2	
-上將	shang4 ziang4	
-少將	shao4 ziang4	
-世紀	shi4 ji4	
-十行	shi5 hang2	
-石磨	shi5 mo4	
-碩果累累	sho5 go3 lui3 lui3	
-瀧水	shuang1 shui3	
-四行	si4 hang2	
-姓祭	sin4 zhai1	
-莎草	so1 cao3	
-浚縣	svn4 xian4	
-逃難	tao2 lan4	
-填空	tian2 kong4	
-鐵騎	tie2 ji4	
-投降	tou2 xiang2	
-推磨	tui1 mo4	
-婠妠	wa4 la5	
-文蛤	wen2 geo5	
-五行	wu3 hang2	
-五行	wu3 xin2	
-喜好	xi3 hao4	
-降服	xiang2 fu5	
-降妖	xiang2 yao1	
-行商坐賈	xin2 shang1 zo4 gu3	
-滸浦	xu3 pu3	
-滸墅關	xu3 shu4 guan1	
-砉然	xu5 ran2	
-央行	yang1 hang2	
-洋行	yang2 hang2	
-羊圈	yang2 juan4	
-葉公好龍	ye5 gong1 hao4 long2	
-一行	yi5 hang2	
-一騎	yi5 ji4	
-引吭高歌	yin3 hang2 gao1 geo1	
-櫟陽	yo5 yang2	
-遊手好閒	you2 shou3 hao4 xian2	
-有空	you3 kong4	
-餘勇可賈	yu2 yong3 keo3 gu3	
-災難	zai1 lan4	
-招降	zhao1 xiang2	
-治喪	zhi4 sang1	
-執拗	zhi5 niu4	
-中將	zhong1 ziang4	
-豬圈	zhu1 juan4	
-戅直	zhuang4 zhi5	
-趑趄	zi1 zv1	
-將領	ziang4 lin3	
-將相	ziang4 siang4	
-湫隘	ziao3 ai4	
-靚妝	zin4 zhuang1	
-鑽空子	zuan1 kong4 zi3	
-咀嚼	zv3 zve5	
-咀嚼	zv3 zve5	
-擠死	zyi1 si3	
-擠牙膏	zyi1 ya2 gao1	
-濟南	zyi3 lan2	
-濟水	zyi3 shui3	
-澠池	mian3 chi2	
-澠水	shen3 shui3	
-滯納	chi5 la5	
-陷進	han4 zin4	
-陷進	xian4 zin4	
-重彈	chong2 tan2	
-重犯	chong2 fan4	
-重犯	zhong4 fan4	
-重韻	chong2 yun4	
-重紐	chong2 niu3	
-重構	chong2 gou4	
-重蹈	chong2 dao3	
-重至	chong2 zhi4	
-重來	chong2 lai2	
-重合	chong2 heo5	
-重圓	chong2 yuan2	
-重生	chong2 sen1	
-戴憑重席	dai4 pin2 chong2 syi5	
-疊矩重規	die5 ju3 chong2 gui1	
-多重	do1 chong2	
-重劃	chong2 hua4	
-重演	chong2 yan3	
-列鼎重裀	lie5 din3 chong2 yin1	
-裀	yin1	
-兩重	liang3 chong2	
-高山重嶂	gao1 shan1 chong2 zhang4	
-重奏	chong2 zou4	
-古井重波	gu3 zin3 chong2 bo1	
-重逢	chong2 fong2	
-故技重施	gu4 ji4 chong2 shi1	
-重重	chong2 chong2	
-重疊	chong2 die5	
-規重矩疊	gui1 chong2 ju3 die5	
-重整	chong2 zhen3	
-九重	jiu3 chong2	
-重逢	chong2 fong2	
-重溫	chong2 wen1	
-重遊	chong2 you2	
-枵腹重趼	xiao1 fu5 chong2 zian3	
-重拾	chong2 shi5	
-重置	chong2 zhi4	
-重播	chong2 bo1	
-重版	chong2 ban3	
-重辦	chong2 ban4	
-重壁	chong2 bi5	
-重編	chong2 bian1	
-重拍	chong2 pe5	
-重門	chong2 men2	
-重明	chong2 min2	
-重逢	chong2 fong2	
-重赴鹿鳴	chong2 fu4 lu5 min2	
-重複	chong2 fu5	
-重戴	chong2 dai4	
-重睹天日	chong2 du3 tian1 ri5	
-重臺	chong2 tai2	
-重貼現率	chong2 tie5 xian4 lu5	
-重瞳	chong2 tong2	
-重樓	chong2 lou2	
-重黎	chong2 li2	
-重霤	chong2 liu1	
-重羅麪	chong2 lo2 mian4	
-重卵	chong2 luan3	
-重根	chong2 gen1	
-重閨	chong2 gui1	
-重關	chong2 guan1	
-重光	chong2 guang1	
-重考	chong2 kao3	
-重華	chong2 hua2	
-重九	chong2 jiu3	
-重見	chong2 jian4	
-重建	chong2 jian4	
-重聚	chong2 zv4	
-重親	chong2 cin1	
-重慶	chong2 qin4	
-重慶市	chong2 qin4 shi4	
-重泉	chong2 cvan2	
-重熙	chong2 xi1	
-重霄	chong2 xiao1	
-重修	chong2 xiu1	
-重現	chong2 xian4	
-重新	chong2 sin1	
-重軒	chong2 xuan1	
-重振	chong2 zhen3	
-重張	chong2 zhang1	
-重唱	chong2 chang4	
-重出	chong2 chu5	
-重重	zhong2 zhong2	
-重世	chong2 shi4	
-重舌	chong2 she5	
-重山	chong2 shan1	
-重申	chong2 shen1	
-重生	chong2 sen1	
-重奏	chong2 zou4	
-重足	chong2 zu5	
-重組	chong2 zu3	
-重作馮婦	chong2 zo5 fong2 fu4	
-重操舊業	chong2 cao1 jiu4 nie5	
-重三	chong2 san1	
-重孫	chong2 sun1	
-重耳	chong2 er3	
-重譯	chong2 yi5	
-重譯	zhong2 yi5	
-重岩疊嶂	chong2 ai2 die5 zhang4	
-重陰	chong2 yin1	
-重印	chong2 yin4	
-重陽	chong2 yang2	
-重穎	chong2 yin3	
-重屋	chong2 wu5	
-重午	chong2 wu3	
-重圍	chong2 wei2	
-重淵	chong2 yuan1	
-重繭	chong2 zian3	
-雙重	shuang1 chong2	
-重估	chong2 gu3	
-二重	er4 chong2	
-三重	san1 chong2	
-四重	si4 chong2	
-萬重	wan4 chong2	
-敗興	bai4 xin4	
-幫興	bang1 xin4	
-高興	gao1 xin4	
-動興	dong4 xin4	
-談興	tan2 xin4	
-寓興	yu4 xin4	
-感興	gan3 xin4	
-鼓興	gu3 xin4	
-豪興	hao2 xin4	
-即興	zi5 xin4	
-寄興	ji4 xin4	
-酒興	ziu3 xin4	
-盡興	zin4 xin4	
-起興	qi3 xin4	
-遣興	qian3 xin4	
-興復不淺	xin4 fu5 bu5 cian3	
-興頭	xin4 tou2	
-興高采烈	xin4 gao1 cai3 lie2	
-興盡	xin4 zin4	
-興趣	xin4 cv4	
-興之所至	xin4 zhi1 suo3 zhi4	
-興致	xin4 zhi4	
-興味	xin4 wei4	
-助興	zu4 xin4	
-轉動	zhuan4 dong4	
-觸興	zhu5 xin4	
-春興	chun1 xin4	
-詩興	shi1 xin4	
-雜興	za5 xin4	
-掃興	sao3 xin4	
-隨興	sui2 xin4	
-意興	yi4 xin4	
-雅興	ya3 xin4	
-遊興	you2 xin4	
-餘興	yu2 xin4	
-乘興	shen2 xin4	
-作興	zo5 xin4	
-比興	bi3 xin4	
-背興	bei4 xin4	
-龜茲	jiu1 ci2	
-紅苕	hong2 shao2	
-苕腔	shao2 qiang1	
-周召	zhou1 shao2	
-召父杜母	shao2 fu4 du4 mu3	
-召棠	shao2 tang2	
-召南	shao2 lan2	
-歙縣	she5 xian4	
-歙硯	she5 yan4	
-歙漆	she5 ci5	
-蓑蓑	sv1 sv1	
-剡剡	yan3 yan3	
-肘腋	zhou3 yi5	
-集腋成裘	zyi5 yi5 chen2 qiu2	
-一狐之腋	yi5 hu2 zhi1 yi5	
-莠民	you4 min2	
-莠言	you4 yan2	
-莠狗尾草	you4 gou3 wei3 cao3	
-脅孔	xia5 kong3	
-蘇姨子	so1 ye2 zi3	
-伺候	ci4 hou4	
-崴貨	wai3 ho4	
-崴了	wai3 lo	
-腳崴了	jio5 wai3 lo	
-阿彌陀佛	o1 mi2 to2 fu5	
-阿膠	o1 jiao1	
-揞起	an3 qi3	
-凹凹	ao1 ao1	
-熬鍋肉	ao1 go1 ru5	
-熬油	ao1 you2	
-蚌殼	ban4 keo5	
-煲湯	bao1 tang1	
-薄荷	bo4 heo4	
-暴虎馮河	bao4 hu3 pin2 heo2	
-悲咽	bei1 ye5	
-填咽	tian2 ye5	
-塡咽	tian2 ye5	
-凝咽	nin2 ye5	
-哽咽	gen3 ye5	
-淒咽	ci1 ye5	
-氣咽	qi4 ye5	
-抽咽	chou1 ye5	
-啞咽	ya3 ye5	
-幽咽	you1 ye5	
-嗚咽	wu1 ye5	
-乾咽	gan1 ye5	
-奔頭	ben4 tou2	
-奔投	ben4 tou2	
-投奔	tou2 ben4	
-比較	bi3 jiao4	
-比校	bi3 jiao4	
-校尉	jiao4 wei4	
-犯而不校	fan4 er2 bu5 jiao4	
-覆校	fu5 jiao4	
-校書	jiao4 shu1	
-鉤校	gou1 jiao4	
-考校	kao3 jiao4	
-校本	jiao4 ben3	
-校點	jiao4 dian3	
-校訂	jiao4 din4	
-校對	jiao4 dui4	
-校理	jiao4 li3	
-校獵	jiao4 lie5	
-校改	jiao4 gai3	
-校稿	jiao4 gao3	
-校勘	jiao4 kan1	
-校計	jiao4 ji4	
-校綴	jiao4 zhui4	
-校準	jiao4 zhun3	
-校仁	jiao4 ren2	
-校樣	jiao4 yang4	
-校閱	jiao4 yue5	
-檢校	jian3 jiao4	
-循名校實	svn2 min2 jiao4 shi5	
-校讎	jiao4 chou2	
-讎校	chou2 jiao4	
-校正	jiao4 zhen4	
-校量	jiao4 liang4	
-參校	can1 jiao4	
-扁擔	bian3 dan4	
-擔子	dan4 zi3	
-挑擔	tiao1 dan4	
-扁舟	pian1 zhou1	
-變徵	bian4 zhi3	
-徵羽	zhi3 yu3	
-徵羽	zhi3 yu3	
-宮商角徵羽	gong1 shang1 jio5 zhi3 yu3	
-不帑	bu5 lu2	
-猜度	cai1 do5	
-裁度	cai2 do5	
-忖度	cun3 do5	
-參差	cen1 ci1	
-參差不齊	cen1 ci1 bu5 cyi2	
-參錯	cen1 co4	
-參商	sen1 sang1	
-參辰	sen1 shen2	
-刹車	sha5 che1	
-長着	zhang3 zho5	
-長吏	zhang3 li4	
-長史	zhang3 shi3	
-長進	zhang3 zin4	
-長老	zhang3 lao3	
-長子	zhang3 zi3	
-長官	zhang3 guan1	
-長房	zhang3 fang2	
-長女	zhang3 nv3	
-長男	zhang3 lan2	
-長大	zhang3 da4	
-長者	zhang3 zhe3	
-營長	yun2 zhang3	
-師長	si1 zhang3	
-旅長	lv3 zhang3	
-兵長	bin1 zhang3	
-生長	sen1 zhang3	
-暗調	an4 diao4	
-扁鑽	bian3 zuan4	
-便應	bian4 yin1	
-變調	bian4 diao4	
-標調	biao1 diao4	
-內調	lui4 diao4	
-不轉	bu5 zhuan4	
-差旅	chai1 lv3	
-差遣	chai1 qian3	
-差人	chai1 ren2	
-差使	chai1 shi3	
-差事	chai1 si4	
-朝暮	zhao1 mu4	
-朝日	zhao1 ri5	
-朝陽	zhao1 yang2	
-嘲哳	zhao1 zha1	
-稱體裁衣	chen4 ti3 cai2 yi1	
-稱心	chen4 sin1	
-稱心如意	chen4 sin1 ru2 yi4	
-稱職	chen4 zhi5	
-成調	chen2 diao4	
-衝着	chong4 zho5	
-抽調	chou1 diao4	
-酬酢	chou2 zo5	
-綢繆	chou2 mou2	
-出差	chu5 chai1	
-出脫	cho5 to5	
-處處	chu4 chu4	
-處所	chu4 so3	
-搋子	chuai1 zi3	
-打倒	da3 dao3	
-打掉	da3 diao4	
-打工仔	da3 gong1 zai3	
-打仔	da3 zai3	
-打轉	da3 zhuan4	
-大不應是	da4 bu5 yin1 shi4	
-大調	da4 diao4	
-大夫	da4 fu1	
-大夫	dai4 fu1	
-大腹便便	da4 fu5 pian2 pian2	
-大王	dai4 wang2	
-大王	da4 wang2	
-帶調	dai4 diao4	
-丹荑	dan1 yi2	
-單于	shan2 yu2	
-撣邦	shan4 bang1	
-彈弓	dan4 gong1	
-彈片	dan4 pian4	
-彈藥	dan4 yo5	
-㗖人	tao1 ren2	
-倒數	dao4 su3	
-到處	dao4 chu4	
-得轉	de5 zhuan4	
-等一下着	den3 yi5 ha4 do1	
-等下着	den3 ha4 do1	
-了着	lo do1	
-低調	di1 diao4	
-癲仔	dian1 zai3	
-電鑽	dian4 zuan4	
-掉頭	diao4 tou2	
-調查	diao4 cha2	
-調調	diao4 diao4	
-調動	diao4 dong4	
-調高	diao4 gao1	
-調派	diao4 pai4	
-調型	diao4 xin2	
-調性	diao4 xin4	
-調研	diao4 nian1	
-調子	diao4 zi3	
-咚大	dong2 da4	
-斗杓	dou3 biao1	
-對稱	dui4 chen4	
-二調	er4 diao4	
-飛彈	fei1 dan4	
-飛轉	fei1 zhuan4	
-分調	fen1 diao4	
-該應	gai1 yin1	
-高調	gao1 diao4	
-格調	ge5 diao5	
-弓形鑽	gong1 xin2 zuan4	
-公轉	gong1 zhuan4	
-昏頭轉向	hun1 tou2 zhuan4 xiang4	
-基調	ji1 diao4	
-金剛鑽	jin1 gang1 zuan4	
-空轉	kong1 zhuan4	
-藍調	lan2 diao4	
-理應	li3 yin1	
-連調	lian2 diao4	
-溜轉	liu1 zhuan4	
-輪流轉	lun2 liu2 zhuan4	
-論調	lun4 diao4	
-螺螄轉	lo2 si1 zhuan4	
-螺紋鑽	lo2 wen2 zuan4	
-民調	min2 diao4	
-牛回磨轉	niu2 hui2 mo4 zhuan4	
-跑調	pao3diao4	
-平調	pin2diao4	
-腔調	qiang1 diao4	
-強調	qiang2 diao4	
-氫彈	qin2 dan4	
-曲調	qu5 diao5	
-柔荑	rou2 yi2	
-升調	shen1 diao4	
-聲調	shen1 diao4	
-水鑽	shui3 zuan4	
-死仔	si3 zai3	
-隨處	sui3 chu4	
-同調	tong2 diao4	
-痛處	tong4 chu4	
-團轉	tuan2 zhuan4	
-外調	wai4 diao4	
-未雨綢繆	wei4 yu3 chou2 mou2	
-我處	ngo3 chu4	
-相稱	siang1 chen4	
-信號彈	sin4 hao4 dan4	
-牙鑽	ya2 zuan4	
-陽調	yang2 diao4	
-一應	yi5 yin1	
-荑手纖纖	yi2 shou3 sian1 sian1	
-荑秀	yi2 siu4	
-音調	yin1 diao4	
-陰調	yin1 diao4	
-應城	yin1 chen2	
-應當	yin1 dang1	
-應得	yin1 de5	
-應分	yin1 fen4	
-應該	yin1 gai1	
-應繼分	yin1 ji4 fen4	
-應屆	yin1 jiai4	
-應收	yin1 shou1	
-應須	yin1 sv1	
-應選	yin1 svan3	
-語調	yu3 diao4	
-原子彈	yuan2 zi3 dan4	
-韻調	yun4 diao4	
-仔肉	zai3 ru5	
-炸彈	zha4 dan4	
-豬仔	zhu1 zai3	
-轉燈	zhuan4 den1	
-轉輪	zhuan4 lun2	
-轉磨	zhuan4 mo4	
-轉盤	zhuan4 pan2	
-轉圈	zhuan4 quan1	
-轉軸	zhuan4 zhu5	
-轉子	zhuan4 zi3	
-子彈	zi3 dan4	
-自轉	zi4 zhuan4	
-走調	zou3 diao4	
-鑽牀	zuan1 chuang2	
-鑽戒	zuan4 jiai4	
-鑽石	zuan4 shi5	
-鑽頭	zuan4 tou2	
-鑽子	zuan4 zi3	
-分內	fen4 lui4	
-本分	ben3 fen4	
-縫紉	fong2 ren4	
-裁縫	cai2 fong2	
-縫補	fong2 bu3	
-縫線	fong2 sian4	
-否極泰來	pi3 ji5 tai4 lai2	
-否卦	pi3 gua4	
-伽利略	jia1 li4 lio5	
-伽馬	jia1 ma3	
-斷倒	duan2 dao3	
-斷倒	duan3 dao3	
-咯血	ka5 xue5	
-咯痰	ka5 tan2	
-呱呱墜地	gu1 gu1 zhui4 di4	
-關嚴	guan1 an2	
-別嚴	pie5 an2	
-龜裂	jun1 lie5	
-龜茲	jiu1 zi1	
-寒顫	han2 zhan4	
-顫慄	zhan4 li5	
-夯貨	hang1 ho4	
-好像	hao3 ciang4	
-像話	ciang4 hua4	
-紇繨	ge5 da5	
-橫起	huan2 qi3	
-橫的	huan2 Ddi1	
-橫順	huan2 shun4	
-橫順	hun2 shun4	
-哄騙	hong3 pian4	
-哄勸	hong3 quan4	
-回紇	hui2 hu5	
-噦噦	hui3 hui3	
-渾雞蛋	kun2 ji1 dan4	
-渾的	kun2 Ddi1	
-渾濁	hun1 zho5	
-積攢	zyi5 zan3	
-攢勁	zan3 jin4	
-攢錢	zan3 cian2	
-幾個	ji3 geo3	
-幾點鐘	ji3 dian3 zhong1	
-幾天	ji3 tian1	
-幾年	ji3 nian2	
-幾週	ji3 zhou1	
-幾十	ji3 shi5	
-幾人	ji3 ren2	
-幾何	ji3 heo2	
-幾層	ji3 cen2	
-幾百	ji3 be5	
-幾千	ji3 cian1	
-幾萬	ji3 wan4	
-幾間屋	ji3 gan1 wu5	
-間前	gan1 cian2	
-間隔	jian4 ge5	
-親密無間	cin1 mi5 wu2 jian4	
-間諜	jian4 die5	
-間一下	gan4 yi5 ha4	
-推賢樂善	tui1 xian2 yao4 shan4	
-敬業樂羣	jin4 nie5 yao4 qun2	
-知者樂水	zhi4 zhe3 yao4 shui3	
-仁者樂山	ren2 zhe3 yao4 shan1	
-三樂	san1 yao4	
-樂群	yao4 qun2	
-閼與	yu4 yu3	
-仔肩	zi1 jian1	
-挍錶	gao4 biao3	
-挍鐘	gao4 zhong1	
-挍鬧鐘	gao4 lao4 zhong1	
-解開	gai3 kai1	
-解手	gai3 shou3	
-咎繇	ziu1 yao2	
-句讀	ju4 dou4	
-可惡	keo3 wu4	
-厭惡	yan3 wu4	
-嫌惡	xian2 wu4	
-憎惡	zen1 wu4	
-可數	keo3 su3	
-不數	bu5 su3	
-不可數	bu5 keo3 su3	
-不足齒數	bu5 zu5 chi3 su3	
-悶數錢糧	men1 su3 cian2 liang2	
-面數	mian4 su3	
-不勝數	bu5 sen4 su3	
-屈指可數	qu5 zhi3 keo3 su3	
-擢髮難數	zho5 fa5 lan2 su3	
-數米而炊	su3 mi3 er2 chui1	
-數伏	su3 fu5	
-數典忘祖	su3 dian3 wang4 zu3	
-數短論長	su3 duan3 lun4 chang2	
-數來寶	su3 lai2 bao3	
-數落	su3 lo5	
-數九	su3 jiu3	
-數息	su3 xi5	
-數說	su3 sho5	
-數一數二	su3 yi5 su3 er4	
-數往知來	su3 wang2 zhi1 lai2	
-責數	ze5 su3	
-數數	su3 su4	
-倒數	dao4 su3	
-倒數	dao3 su4	
-勝數	shen1 su3	
-盡數	zin4 su3	
-更僕難數	gen1 pu5 lan2 su3	
-尋行數墨	svn2 hang2 su3 me5	
-表率	biao3 shuai4	
-草率	cao3 shuai4	
-當頭	dang4 tou2	
-當做	dang4 zu4	
-典當	dian3 dang4	
-多言數窮	do1 yan2 sho5 qiong2	
-煩數	fan2 sho5	
-勾當	gou4 dang4	
-開腸剖肚	kai1 chang2 po4 du4	
-狼藉	lang2 zyi5	
-老么	lao4 yao1	
-老撾	lao4 wo1	
-蘿蔔	lo2 bu4	
-漯河	lo2 heo2	
-率領	shuai4 lin3	
-率性	shuai4 sin4	
-率真	shuai4 zhen1	
-率眞	shuai4 zhen1	
-率直	shuai4 zhi5	
-么兒	yao1 er2	
-螃蟹	pang2 hai3	
-頻數	pin2 shu4	
-平上去入	pin2 shang3 qu4 ru5	
-剖開	po4 kai1	
-起哄	qi3 hong4	
-跒位	ka1 wei4	
-跒位	qia1 wei4	
-恰當	qia5 dang4	
-輕率	qin1 shuai4	
-上聲	shang4 shen1	
-失當	shi5 dang4	
-適當	shi5 dang4	
-數見不鮮	sho5 jian4 bu4 xuan1	
-數數	sho5 sho5	
-數四	sho4 si4	
-坦率	tan3 shuai4	
-統率	tong3 shuai4	
-妥當	to3 dang4	
-楊么	yang2 yao1	
-直率	zhi5 shuai4	
-質當	zhi5 dang4	
-探湯	tan4 tang1	
-廈門	xia4 men2	
-山楂	shan1 zha1	
-韶山沖	shao2 shan1 chong4	
-少爺	shao4 ye2	
-少女	shao4 nv3	
-少保	shao4 bao3	
-少師	shao4 si1	
-年少	nian2 shao4	
-老少	lao3 shao4	
-少婦	shao4 fu4	
-闊少	kue5 shao4	
-大少	da4 shao4	
-少年	shao4 nian2	
-卻少	qio5 shao4	
-少白頭	shao4 be5 tou2	
-少棒	shao4 bang4	
-少不經事	shao4 bu5 jin1 si4	
-少府	shao4 fu3	
-少東	shao4 dong1	
-少牢	shao4 lao2	
-少林	shao4 lin2	
-少康	shao4 kang1	
-少昊	shao4 hao4	
-少小	shao4 siao4	
-少像	shao4 siang4	
-少壯	shao4 zhuang4	
-少成若性	shao4 chen2 ro5 sin4	
-少商	shao4 shang1	
-少子	shao4 zi3	
-少艾	shao4 ai4	
-少尉	shao4 wei4	
-少校	shao4 xiao4	
-資淺齒少	zi1 cian4 chi3 shao4	
-嵩少	song1 shao4	
-惡少	o5 shao4	
-安老懷少	an1 lao3 huai3 shao4	
-遺少	yi2 shao4	
-少奶奶	shao4 lai3 lai3	
-老醫少卜	lao3 yi1 shao4 pu5	
-蛇蛇	yi2 yi2	
-委蛇	wei1 yi2	
-莘莊	xin1 zhuang1	
-什麼	shen4 mo1	
-爲什麼	wei4 shen4 mo1	
-甚麼	shen4 mo1	
-爲甚麼	wei4 shen4 mo1	
-椹質	shen4 zhi5	
-盛飯	chen2 fan4	
-盛放	chen2 fang4	
-盛殮	chen2 lian4	
-盛器	chen2 qi4	
-盛水不漏	chen2 shui3 bu5 lou4	
-粢盛	ci2 chen2	
-齊盛	zyi1 chen2	
-睡覺	shui4 jiao4	
-一覺	yi5 jiao4	
-睡覺覺	shui4 gao4 gao4	
-睡着	shui4 cho5	
-划不着	hua2 bu5 cho5	
-雖然	sv1 ran2	
-雖然	sui1 ran2	
-棉絮	mian2 sui4	
-駘蕩	dai4 dang4	
-特爲	te5 wei4	
-爲悅己容	wei4 yue5 ji3 yong2	
-爲知己死	wei4 zhi1 ji3 si3	
-爲國	wei4 gue5	
-各爲其主	go5 wei4 qi2 zhu3	
-爲公	wei4 gong1	
-捨己爲人	she3 ji3 wei4 ren2	
-人爲財死	ren2 wei4 cai2 si3	
-鳥爲食亡	niao3 wei4 shi5 wang2	
-才爲世出	cai2 wei4 shi4 chu5	
-因爲	yin1 wei4	
-爲民	wei4 min2	
-爲虎	wei4 hu3	
-爲虎作倀	wei4 hu3 zo5 chang1	
-爲小失大	wei4 siao3 shi5 da4	
-爲情	wei4 cin2	
-爲我	wei4 ngo3	
-爲何	wei4 heo2	
-爲何	wei2 heo2	
-官官相爲	guan1 guan1 siang1 wei4	
-怗然	tie5 ran2	
-聽命	tin4 min4	
-聽天	tin4 tian1	
-聽政	tin4 zhen4	
-聽事	tin4 si4	
-聽人穿鼻	tin4 ren2 chuan1 bi5	
-聽訟	tin4 song4	
-聽獄	tin4 yu5	
-一聽	yi5 tin4	
-聽便	tin4 bian4	
-聽憑	tin4 pin2	
-聽斷	tin4 duan4	
-聽其自然	tin4 qi2 zi4 ran2	
-聽任	tin4 ren4	
-悉聽尊便	si5 tin4 zun1 bian4	
-僮族	zhuang4 cu5	
-拓片	ta5 pian4	
-拓碑	ta5 bei1	
-拓印	ta5 yin4	
-万俟	me5 qi2	
-尉犁	yu4 li2	
-尉遲	yu4 chi5	
-渦口	go1 kou3	
-渦河	go1 heo2	
-西藏	syi1 zang4	
-藏民	zang4 min2	
-藏餐	zang4 can1	
-藏藥	cang4 yo5	
-藏醫	zang4 yi1	
-藏人	zang4 ren2	
-藏式	zang4 shi4	
-藏族	zang4 cu5	
-衛藏	wei5 zang4	
-雅魯藏布	ya3 lu3 zang4 bu4	
-藏文	zang4 wen2	
-藏語	zang4 yu3	
-八隻	ba5 zhi1	
-百載	be5 zai3	
-半載	ban4 zai3	
-曾氏	zen1 shi4	
-朝歌暮樂	zhao1 geo1 mu4 yo5	
-潮樂	chao2 yo5	
-吹樂器	chui1 yo5 qi4	
-粗樂	cu1 yo5	
-打擊樂	da3 ji5 yo5	
-刀耕火種	dao1 gen1 ho3 zhong4	
-複種	fu5 zhong4	
-歌樂	geo1 yo5	
-歌樂山	geo1 lo5 shan1	
-耕種	gen1 zhong4	
-古樂	gu3 yo5	
-鼓吹樂	gu3 chui1 yo5	
-鼓樂	gu3 yo5	
-管樂	guan3 yo5	
-國樂	gue5 yo5	
-胡樂	hu2 yo5	
-家種	jia1 zhong4	
-交響樂	jiao1 xiang3 yo5	
-接種	zie5 zhong3	
-解州	jiai4 zhou1	
-敬而遠之	jin4 er2 yuan3 zhi1	
-九隻	jiu3 zhi1	
-巨蟹座	ju4 xiai4 zo4	
-爵士樂	zve5 si4 yo5	
-君子遠庖廚	jun1 zi3 yuan3 pao2 chu2	
-軍樂	jun1 yo5	
-鈞天樂	jun1 tian1 yo5	
-凱樂	kai3 yo5	
-藍田種玉	lan2 tian2 zhong4 yu4	
-禮崩樂壞	li3 ben1 yo5 huai4	
-禮賢遠佞	li3 xian2 yuan3 nin4	
-禮樂	li3 yo5	
-兩隻	liang3 zhi1	
-兩片	liang3 pian3	
-聆樂	lin2 yo5	
-六樂	Dlu5 yo5	
-兩隻	liang3 zhi1	
-隴種	long3 zhong4	
-輪種	lun2 zhong4	
-芒種	mang2 zhong4	
-靡樂	mi2 yo5	
-篾片	mie5 pian3	
-能樂	len2 yo5	
-年載	nian2 zai3	
-女樂	nv3 yo5	
-配樂	pei4 yo5	
-片片	pian3 pian3	
-片狀	pian3 zhuang4	
-七隻	ci5 zhi1	
-氣旋	qi4 svan2	
-器樂	qi4 yo5	
-千載	cian1 zai3	
-搶種	ciang3 zhong4	
-清商樂	cin1 shang1 yo5	
-清樂	cin1 yo5	
-詘寸信尺	chu5 cun4 sin4 chi5	
-肉臊	rou4 sao4	
-三隻	san1 zhi1	
-散樂	san3yo5	
-韶樂	shao2 yo5	
-聲樂	shen1 yo5	
-澠池	mian3 chi2	
-澠水	shen3 shui3	
-聖樂	shen4 yo5	
-十載	shi5 zai3	
-十隻	shi5 zhi1	
-室內樂	shi5 lui4 yo5	
-絲竹樂	si1 zhu5 yo5	
-四隻	si4 zhi1	
-唐樂	tang2 yo5	
-套種	tao4 zhong4	
-萬載	wan4 zai3	
-文樂	wen2 yo5	
-五載	wu3 zai4	
-五隻	wu3 zhi1	
-舞樂	wu3 yo5	
-西樂	syi1 yo5	
-細樂	si4 yo5	
-下數	ha4 su4	
-下下	ha4 ha4	
-仙樂	sian1 yo5	
-弦樂	xuan2 yo5	
-涎涎	svan2 svan2	
-獻罇	so1 zun1	
-蠨蛸	siao1 shao1	
-蟹螯	xiai4 ao2	
-蟹行	xiai4 hang2	
-蟹黃	xiai4 huang2	
-星孛	xin1 bei4	
-姓曾	sin4 zen1	
-姓繆	sin4 miao4	
-姓隗	sin4 kui1	
-盱眙	yu1 yi1	
-玄奘	xuan2	
-旋風	svan4 fong1	
-旋子	svan4 zi3	
-噱頭	xio5 tou2	
-押解	ya5 jiai4	
-雅樂	ya3 yo5	
-軋鋼	zha5 gang1	
-軋賬	ga5 zhang4	
-腌灒	a1 za1	
-卬首信眉	ang2 shou3 shen1 mi2	
-幺麼	yao1 mo1	
-搖擺樂	yao2 bai3 yo5	
-搖滾樂	yao2 gun3 yo5	
-咬卵犟	ao3 luan3 jiang4	
-咬性	ao3 sin4	
-液體	ye4 ti3	
-一片	yi5 pian3	
-一下	yi5 ha4	
-一隻	yi5 zhi1	
-猗頓	yi3 dun4	
-猗靡	yi3 mi2	
-猗抳	yi3 ni2	
-醫院	yi1 wan2	
-佚起	die5 qi3	
-佚興	die5 xin4	
-億載	yi4 zai3	
-音樂	yin1 yo5	
-音樂廳	yin1 yo5 tin1	
-飲場	yin4 chang2	
-飲和	yin4 ho2	
-飲花	yin4 hua1	
-飲馬	yin4 ma2	
-飲水	yin4 shui3	
-飲水	yin3 shui3	
-飲羊	yin4 yang2	
-滎波	xin2 bo1	
-滎水	xin2 shui3	
-滎陽	xin2 yang2	
-傭畊	yong4 gen1	
-傭故	yong4 gu4	
-傭金	yong4 jin1	
-傭錢	yong5 cian2	
-油棹	you2 zho5	
-玉蟹	yu4 xiai4	
-閼氏	yan1 shi4	
-遠害	yuan3 hai4	
-遠嫌	yuan3 xian2	
-樂部	yo5 bu4	
-樂池	yo5 chi2	
-樂牀	yo5 chuang2	
-樂隊	yo5 dui4	
-樂府	yo5 fu3	
-樂婦	yo5 fu4	
-樂歌	yo5 geo1	
-樂工	yo5 gong1	
-樂戶	yo5 hu4	
-樂籍	yo5 zyi5	
-樂記	yo5 ji4	
-樂句	yo5 ju4	
-樂理	yo5 li3	
-樂論	yo5 lun4	
-樂律	yo5 lu5	
-樂迷	yo5 mi2	
-樂派	yo5 pai4	
-樂棚	yo5 pong2	
-樂品	yo5 pin3	
-樂譜	yo5 pu3	
-樂器	yo5 qi4	
-樂曲	yo5 qu5	
-樂仁	yo5 ren2	
-樂聲	yo5 sehn1	
-樂師	yo5 si1	
-樂史	yo5 shi3	
-樂式	yo5 shi4	
-樂素	yo5 su4	
-樂壇	yo5 tan2	
-樂探	yo5 tan1	
-樂團	yo5 tuan2	
-樂翁	yo5 wong1	
-樂毅	yo5 ni4	
-樂音	yo5 yin1	
-樂語	yo5 yu3	
-樂章	yo5 zhang1	
-樂正	yo5 zhen4	
-縕袍	yun4 pao2	
-栽種	zai1 zhong4	
-笮桥	zo5 qiang2	
-輾轉	zhan3 zhuan3	
-蓁椒	cin2 jiao1	
-枕藉	zhen3 zie4	
-振振	zhen3 zhen3	
-隻身	zhi1 shen1	
-隻字	zhi1 zi4	
-製禮	zhi4 li3	
-滯納	chi5 la5	
-種德	zhong4 de5	
-種痘	zhong4 dou4	
-種穀	zhong4 gu5	
-種花	zhong4 hua1	
-種生	zhong4 sen1	
-種田	zhong4 tian2	
-種因	zhong4 yin1	
-種玉	zhong4 yu4	
-種植	zhong4 zhi5	
-拽文	zhuai3 wen2	
-錐屁股	zu1 pi4 gu3	
-錐人	zu1 ren2	
-錐針	zu1 zhen1	
-錐錐	zu1 zu1	
-錐子	zhui1 zi3	
-孖蟲	zi1 chong2	
-子卯不樂	zi3 mao3 bu5 yo5	
-奏樂	zou4 yo5	
-作樂	zo5 yo5	
-作樂	zo5 lo5	
-一間	yi5 gan1	
-傳記	zhuan4 ji4	
-水滸傳	shui3 hu3 zhuan4	
-英雄傳	yin1 xiong2 zhuan4	
-警長	jin3 zhang3	
-擱置	geo5 zhi4	
-擱淺	geo5 cian3	
-杞人憂天	qi3 ren2 you1 tian1	
-杞國	qi3 gue5	
-擱得住	keo4 de5 zhu4	
-擔擱	dan1 geo5	
-耽擱	dan1 geo5	
-欸乃	ai1 lai3	
-長相	zhang3 siang4	
-班長	ban1 zhang3	
-旅長	lv3 zhang3	
-不學長俊	bu5 xio5 zhang3 zvn4	
-不長一智	bu5 zhang3 yi5 zhi4	
-不長眼睛	bu5 zhang3 yan3 zin1	
-不長進	bu5 zhang3 zin4	
-亭長	tin2 zhang3	
-伍長	wu3 zhang3	
-使長	shi3 zhang3	
-保增長	bao3 zen1 zhang3	
-保安局局長	bao3 an1 ju5 ju5 zhang3	
-停留長智	tin2 liu2 zhang3 zhi4	
-兄長	xiong1 zhang3	
-內政部長	lui4 zhen4 bu4 zhang3	
-典獄長	dian3 yu5 zhang3	
-再長爹娘	zai4 zhang3 die1 niang2	
-列車長	lie5 che1 zhang3	
-副州長	fu4 zhou1 zhang3	
-副市長	fu4 shi4 zhang3	
-副會長	fu4 hui4 zhang3	
-副校長	fu4 xiao4 zhang3	
-副議長	fu4 ni4 zhang3	
-副部長	fu4 bu4 zhang3	
-副院長	fu4 yuan4 zhang3	
-劉長卿	liu2 zhang3 qin1	
-助長	zhu4 zhang3	
-區長	qu1 zhang3	
-千夫長	cian1 fu1 zhang3	
-參謀總長	can1 mou2 zong3 zhang3	
-參謀長	can1 mou2 zhang3	
-司長	si1 zhang3	
-名譽校長	min2 yu4 xiao4 zhang3	
-君長	jun1 zhang3	
-啦啦隊長	la1 la1 dui4 zhang3	
-國務長官	gue5 wu4 zhang3 guan1	
-國會議長	gue5 hui4 ni4 zhang3	
-國防部長	gue5 fang2 bu4 zhang3	
-團長	tuan2 zhang3	
-土生土長	tu3 sen1 tu3 zhang3	
-土長根生	tu3 zhang3 gen1 sen1	
-執行長	zhi2 xin2 zhang3	
-增長	zen1 zhang3	
-增長天	zen1 zhang3 tian1	
-增長率	zen1 zhang3 lu5	
-增長見識	zen1 zhang3 jian4 shi5	
-夏長	xia4 zhang3	
-外交部長	wai4 jiao1 bu4 zhang3	
-外長	wai4 zhang3	
-大修道院長	da4 siu1 dao4 yuan4 zhang3	
-大家長	da4 jia1 zhang3	
-大長公主	da4 zhang3 gong1 zhu3	
-女長須嫁	nv3 zhang3 xu1 jia4	
-委員長	wei3 yuan2 zhang3	
-嫡長子	di5 zhang3 zi3	
-學長	xio5 zhang3	
-官房長官	guan1 fang2 zhang3 guan1	
-官長	guan1 zhang3	
-客長	ke5 zhang3	
-家長	jia1 zhang3	
-家長制	jia1 zhang3 zhi4	
-審判長	shen3 pan4 zhang3	
-審計長	shen3 ji4 zhang3	
-將兵長史	ziang4 bin1 zhang3 shi3	
-尊長	zun1 zhang3	
-局長	ju5 zhang3	
-山長	shan1 zhang3	
-州長	zhou1 zhang3	
-市長	shi4 zhang3	
-師長	si1 zhang3	
-年均增長率	nian2 jun1 zen1 zhang3 lu5	
-年長	nian2 zhang3	
-幹事長	gan4 si4 zhang3	
-店長	dian4 zhang3	
-庫克船長	ku4 ke5 chuan2 zhang3	
-庭長	tin2 zhang3	
-廚師長	chu2 si1 zhang3	
-廠長	chang3 zhang3	
-廳長	tin1 zhang3	
-彼長我消	bi3 zhang3 ngo3 siao1	
-成長	chen2 zhang3	
-成長率	chen2 zhang3 lu5	
-成長股	chen2 zhang3 gu3	
-戶長	hu4 zhang3	
-拉名糧長	la1 min2 liang2 zhang3	
-拔苗助長	ba2 miao2 zhu4 zhang3	
-挾長	xie5 zhang3	
-排長	pai2 zhang3	
-揠苗助長	ya4 miao2 zu4 zhang3	
-敖不可長	ao4 bu5 keo3 zhang3	
-教務長	jiao4 wu4 zhang3	
-教學相長	jiao4 xio5 siang4 zhang3	
-教育部長	jiao4 yu5 bu4 zhang3	
-教長	jiao4 zhang3	
-旅長	lv3 zhang3	
-族長	cu5 zhang3	
-晶粒生長	zin1 li5 sen1 zhang3	
-最年長	zui4 nian2 zhang3	
-會長	hui4 zhang3	
-會長團	hui4 zhang3 tuan2	
-村生泊長	cun1 sen1 bo5 zhang3	
-村長	cun1 zhang3	
-校長	xiao4 zhang3	
-根生土長	gen1 sen1 tu3 zhang3	
-案長	an4 zhang3	
-植物生長素	zhi2 wu4 sen1 zhang3 su4	
-機長	ji1 zhang3	
-次長	ci4 zhang3	
-水長船高	shui3 zhang3 chuan2 gao1	
-沒出長	mei1 chu1 zhang3	
-沒長眼	mei1 zhang3 yan3	
-沒長進	mei1 zhang3 jin4	
-消長	siao1 zhang3	
-滋長	zi1 zhang3	
-火長	ho3 zhang3	
-營長	yun2 zhang3	
-獨陽則不長	du5 yang2 ze5 bu4 zhang3	
-王長	wang4 zhang3	
-班長	ban1 zhang3	
-理事長	li3 si4 zhang3	
-生長	sen1 zhang3	
-生長期	sen1 zhang3 qi2	
-生長激素	sen1 zhang3 ji1 su4	
-生長率	sen1 zhang3 lv4	
-生長素	sen1 zhang3 su4	
-生長輪	sen1 zhang3 lun2	
-生長點	sen1 zhang3 dian3	
-甲長	jia5 zhang3	
-男修道院長	nan2 siu1 dao4 yuan4 zhang3	
-痴長	chi1 zhang3	
-瘋長	fong1 zhang3	
-白宮幕僚長	be5 gong1 mu4 liao2 zhang3	
-百夫長	bai3 fu1 zhang3	
-盟長	min2 zhang3	
-目無尊長	mu4 wu2 zun1 zhang3	
-省長	sen3 zhang3	
-眼睛長在頭頂上	yan3 jin1 zhang3 zai4 tou2 din3 shang4	
-社長	she4 zhang3	
-祕書長	mi5 shu1 zhang3	
-科長	ko1 zhang3	
-稍長膽壯	shao1 zhang3 dan3 zhuang4	
-站長	zhan4 zhang3	
-糧長	liang2 zhang3	
-級長	ji5 zhang3	
-組長	zu3 zhang3	
-經濟增長	jin1 zyi4 zen1 zhang3	
-經濟增長率	jin1 zyi4 zen1 zhang3 lu5	
-經濟成長	jin1 zyi4 chen2 zhang3	
-經濟成長率	jin1 zyi4 chen2 zhang3 lu5	
-縣長	xian4 zhang3	
-總參謀長	zong3 can1 mou2 zhang3	
-總會會長	zong3 hui4 hui4 zhang3	
-總長	zong3 zhang3	
-署長	shu3 zhang3	
-翁長	wong1 zhang3	
-老身長子	lao3 shen1 zhang3 zi3	
-老道長	lao3 dao4 zhang3	
-耗子尾上長瘡	hao4 zi5 wei3 shang4 zhang3 chuang1	
-股長	gu3 zhang3	
-船長	chuan2 zhang3	
-艦長	jian4 zhang3	
-艦長	han3 zhang3	
-色長	se5 zhang3	
-茁長	zho5 zhang3	
-草是年年長	cao3 shi4 nian2 nian2 zhang3	
-草長鶯飛	cao3 zhang3 yin1 fei1	
-董事長	dong3 si4 zhang3	
-處長	chu4 zhang3	
-行政長官	xin2 zhen4 zhang3 guan1	
-行長	hang2 zhang3	
-見不長	jian4 bu5 zhang3	
-觸類而長	chu4 lei4 er2 zhang3	
-課長	ko4 zhang3	
-議長	yi4 zhang3	
-護士長	hu4 si4 zhang3	
-負增長	fu4 zen1 zhang3	
-負成長	fu4 chen2 zhang3	
-財政部長	cai2 zhen4 bu4 zhang3	
-財長	cai2 zhang3	
-軍長	jun1 zhang3	
-連長	lian2 zhang3	
-道長	dao4 zhang3	
-部會首長	bu4 hui4 shou3 zhang3	
-部長	bu4 zhang3	
-部長會	bu4 zhang3 hui4	
-部長會議	bu4 zhang3 hui4 yi4	
-部長級	bu4 zhang3 ji2	
-部長級會議	bu4 zhang3 ji2 hui4 yi4	
-部隊長	bu4 dui4 zhang3	
-鄉長	xiang1 zhang3	
-鄰長	lin2 zhang3	
-酋長	ciu2 zhang3	
-酋長制度	ciu2 zhang3 zhi4 du4	
-酋長國	ciu2 zhang3 guo2	
-里長	li3 zhang3	
-鈞長	jun1 zhang3	
-鋪長	pu4 zhang3	
-鎮長	zhen4 zhang3	
-長	zhang3	
-長一智	zhang3 yi5 zhi4	
-長上	zhang3 shang4	
-長他人志氣	zhang3 ta1 ren2 zhi4 qi4	
-長俊	zhang3 zvn4	
-長兄	zhang3 xiong1	
-長公主	zhang3 gong1 zhu3	
-長出	zhang3 chu1	
-長史	zhang3 shi3	
-長吏	zhang3 li4	
-長君	zhang3 jun1	
-長君之惡	zhang3 jun1 zhi1 eo5	
-長大成人	zhang3 da4 chen2 ren2	
-長姊	zhang3 zi3	
-長子	zhang3 zi3	
-長孫	zhang3 sun1	
-長孫媳	zhang3 sun1 xi2	
-長孫無忌	zhang3 sun1 wu2 ji4	
-長官	zhang3 guan1	
-長尾巴	zhang3 wei3 ba5	
-長幼	zhang3 you4	
-長幼有序	zhang3 you4 you3 xu4	
-長得	zhang3 de5	
-長成	zhang3 chen2	
-長房	zhang3 fang2	
-長掌義縣龍	chang2 zhang3 ni4 xian4 long2	
-長機	zhang3 ji1	
-長滿	zhang3 man3	
-長男	zhang3 lan2	
-長相	zhang3 siang4	
-長老	zhang3 lao3	
-長老教會	zhang3 lao3 jiao4 hui4	
-長老會	zhang3 lao3 hui4	
-長者	zhang3 zhe3	
-長脾氣	zhang3 pi2 qi4	
-長親	zhang3 cin1	
-長贅疣	zhang3 zhui4 you2	
-長輩	zhang3 bei4	
-長進	zhang3 jin4	
-長點心眼	zhang3 dian3 sin1 yan3	
-關雲長	guan1 yun2 chang2	
-防長	fang2 zhang3	
-阿拉伯聯合酋長國	a1 la1 be5 lian2 heo5 ciu2 zhang3 gue5	
-阿聯酋長國	a1 lian2 ciu2 zhang3 gue5	
-陡長	dou3 zhang3	
-院長	yuan4 zhang3	
-隊長	dui4 zhang3	
-雄長	xiong2 zhang3	
-靈長目	lin2 zhang3 mu5	
-靈長類	lin2 zhang3 lui4	
-靈長類動物	lin2 zhang3 lui4 dong4 wu5	
-館長	guan3 zhang3	
-首長	shou3 zhang3	
-首長制	shou3 zhang3 zhi4	
-馬齒徒長	ma3 chi3 tu2 zhang3	
-駕長	jia4 zhang3	
-鶯飛草長	yin1 fei1 cao3 zhang3	
-齋長	zhai1 zhang3	
-凝起	nin4 qi3	
-重回	chong2 hui2	
-一重	yi5 chong2	
-兩重	liang3 chong2	
-三重	san1 chong2	
-四重	si4 chong2	
-調遣	diao4 qian3	
-調遷	diao4 qian1	
-調錢	diao3 cian2	
-調調	diao4 diao	
-三重	san1 chong2	
-三重埔	san1 chong2 pu3	
-三重奏	san1 chong2 zou4	
-三重市	san1 chong2 shi4	
-三重縣	san1 chong2 xian4	
-三重門	san1 chong2 men2	
-久別重逢	jiu3 bie2 chong2 fong2	
-九九重陽	jiu3 jiu3 chong2 yang2	
-九重	jiu3 chong2	
-九重天	jiu3 chong2 tian1	
-九重葛	jiu3 chong2 geo5	
-九重霄	jiu3 chong2 siao1	
-二重	er4 chong2	
-二重下標	er4 chong2 xia4 biao1	
-二重分類表	er4 chong2 fen1 lui4 biao3	
-二重唱	er4 chong2 chang4	
-二重國籍	er4 chong2 gue5 zyi5	
-二重奏	er4 chong2 zou4	
-二重性	er4 chong2 sin4	
-二重根	er4 chong2 gen1	
-二重母音	er4 chong2 mu3 yin1	
-兩重人格	liang3 chong2 ren2 ge5	
-兩重親	liang3 chong2 cin1	
-八重奏	ba5 chong2 zou4	
-公司重整	gong1 si1 chong2 zhen3	
-列鼎重裀	lie4 din3 chong2 yin1	
-動詞重疊	dong4 ci2 chong2 die5	
-卷土重來	juan3 tu3 chong2 lai2	
-古井重波	gu3 zin3 chong2 bo1	
-四重奏	si4 chong2 zou4	
-土地重劃	tu3 di4 chong2 hua4	
-墜歡重拾	zhui4 huan1 chong2 shi5	
-多重	duo1 chong2	
-多重人格	duo1 chong2 ren2 ge5	
-多重國籍	duo1 chong2 gue5 zyi5	
-多重性	duo1 chong2 sin4	
-多重性格	duo1 chong2 sin4 ge5	
-大地重生	da4 di4 chong2 shen1	
-居不重席	ju1 bu4 chong2 syi5	
-居不重茵	ju1 bu4 chong2 yin1	
-山巒重疊	shan1 luan2 chong2 die5	
-山重水複	shan1 chong2 shui3 fu5	
-市地重劃	shi4 di4 chong2 hua4	
-心事重重	sin1 si4 chong2 chong2	
-戴憑重席	dai4 pin2 chong2 xi2	
-手足重繭	shou3 zu2 chong2 jian3	
-捲土重來	juan3 tu3 chong2 lai2	
-捲甲重來	juan3 jia3 chong2 lai2	
-故伎重演	gu4 ji4 chong2 yan3	
-故地重遊	gu4 di4 chong2 you2	
-故技重施	gu4 ji4 chong2 shi1	
-斷釵重合	duan4 chai1 chong2 heo5	
-日月重光	ri5 yue5 chong2 guang1	
-昏鏡重明	hun1 jin4 chong2 min2	
-昏鏡重磨	hun1 jin4 chong2 mo2	
-李重茂	li3 chong2 mou4	
-枵腹重趼	xiao1 fu5 chong2 jian3	
-歷史總在重演	li5 shi3 zong3 zai4 chong2 yan3	
-歷史重演	li5 shi3 chong2 yan3	
-殺出重圍	sha5 chu1 chong2 wei2	
-浴火重生	yu5 ho3 chong2 shen1	
-深居九重	shen1 ju1 jiu3 chong2	
-申重	shen1 chong2	
-疊矩重規	die5 ju3 chong2 gui1	
-百舍重繭	bai3 she4 chong2 jian3	
-百舍重趼	bai3 she4 chong2 jian3	
-破鏡重合	po4 jin4 chong2 heo5	
-破鏡重圓	po4 jin4 chong2 yuan2	
-禍必重來	ho4 bi5 chong2 lai2	
-福不重至	fu5 bu4 chong2 zhi4	
-福無重受日	fu2 wu2 chong2 shou4 ri5	
-累重	lui3 chong2	
-老調重彈	lao3 diao4 chong2 tan2	
-舊地重遊	jiu4 di4 chong2 you2	
-舊夢重溫	jiu4 mong4 chong2 wen1	
-舊景重現	jiu4 jin3 chong2 xian4	
-舊調重彈	jiu4 diao4 chong2 tan2	
-萬重	wan4 chong2	
-蒸氣重整	zhen1 qi4 chong2 zhen3	
-覆轍重蹈	fu5 zhe5 chong2 dao4	
-規重矩疊	gui1 chong2 ju3 die5	
-資產重估	zi1 chan3 chong2 gu1	
-農地重劃	long2 di4 chong2 hua4	
-遠渡重洋	yuan3 du4 chong2 yang2	
-重	chong2	
-重三	chong2 san1	
-重三疊四	chong2 san1 die5 si4	
-重世	chong2 shi4	
-重九	chong2 jiu3	
-重九登高	chong2 jiu3 den1 gao1	
-重五	chong2 wu3	
-重估	chong2 gu3	
-重估後	chong2 gu3 hou4	
-重作馮婦	chong2 zuo4 fong2 fu4	
-重侍下	chong2 si4 xia4	
-重修	chong2 siu1	
-重修舊好	chong2 siu1 jiu4 hao3	
-重光	chong2 guang1	
-重光累洽	chong2 guang1 lui3 qia5	
-重出	chong2 chu1	
-重劃	chong2 hua4	
-重午	chong2 wu3	
-重印	chong2 yin4	
-重卵	chong2 luan3	
-重又	chong2 you4	
-重合	chong2 heo5	
-重唱	chong2 chang4	
-重啓	chong2 qi3	
-重回	chong2 hui2	
-重圍	chong2 wei2	
-重塑	chong2 su4	
-重壁	chong2 bi5	
-重奏	chong2 zou4	
-重婚	chong2 hun1	
-重孫	chong2 sun1	
-重孫女	chong2 sun1 nv3	
-重孫媳	chong2 sun1 xi5	
-重定向	chong2 din4 xiang4	
-重審	chong2 shen3	
-重屋	chong2 wu5	
-重山	chong2 shan1	
-重巒疊嶂	chong2 luan2 die5 zhang4	
-重巖疊嶂	chong2 yan2 die5 zhang4	
-重幃	chong2 wei2	
-重建	chong2 jian4	
-重張	chong2 zhang1	
-重彈	chong2 tan2	
-重影	chong2 yin3	
-重慶	chong2 qin4	
-重慶大學	chong2 qin4 da4 xio5	
-重慶市	chong2 qin4 shi4	
-重慶科技學院	chong2 qin4 ko1 ji4 xio5 yuan4	
-重拍	chong2 pe5	
-重拾舊歡	chong2 shi5 jiu4 huan1	
-重振	chong2 zhen3	
-重振旗鼓	chong2 zhen3 qi2 gu3	
-重振雄風	chong2 zhen3 xiong2 fong1	
-重提	chong2 ti2	
-重提舊事	chong2 ti2 jiu4 si4	
-重插	chong2 cha5	
-重播	chong2 bo1	
-重操舊業	chong2 cao1 jiu4 nie5	
-重整	chong2 zhen3	
-重整人	chong2 zhen3 ren2	
-重整旗鼓	chong2 zhen3 qi2 gu3	
-重新	chong2 sin1	
-重新做人	chong2 sin1 zu4 ren2	
-重新加熱	chong2 sin1 jia1 re4	
-重新啓動	chong2 sin1 qi3 dong4	
-重新審視	chong2 sin1 shen3 shi4	
-重新統一	chong2 sin1 tong3 yi5	
-重新裝修	chong2 sin1 zhuang1 siu1	
-重新評價	chong2 sin1 pin2 jia4	
-重新造林	chong2 sin1 cao4 lin2	
-重新開始	chong2 sin1 kai1 shi3	
-重新開機	chong2 sin1 kai1 ji1	
-重明	chong2 min2	
-重映	chong2 yin4	
-重查	chong2 cha2	
-重根	chong2 gen1	
-重樓	chong2 lou2	
-重樣	chong2 yang4	
-重檐	chong2 yuan2	
-重正化	chong2 zhen4 hua4	
-重歷舊遊	chong2 li5 jiu4 you2	
-重沓	chong2 ta5	
-重泉	chong2 cvan2	
-重洋	chong2 yang2	
-重淵	chong2 yuan1	
-重溟	chong2 min2	
-重溫	chong2 wen1	
-重溫舊夢	chong2 wen1 jiu4 men4	
-重溫舊業	chong2 wen1 jiu4 nie5	
-重演	chong2 yan3	
-重熙	chong2 xi1	
-重熙累洽	chong2 xi1 lui3 qia5	
-重版	chong2 ban3	
-重獲	chong2 hue5	
-重現	chong2 xian4	
-重現江湖	chong2 xian4 jiang1 hu2	
-重環紋	chong2 huan2 wen2	
-重瓣	chong2 ban4	
-重瓣胃	chong2 ban4 wei4	
-重生	chong2 sen1	
-重生父母	chong2 sen1 fu4 mu3	
-重生爺娘	chong2 sen1 ye2 niang2	
-重申	chong2 shen1	
-重疊	chong2 die5	
-重眼皮	chong2 yan3 pi2	
-重睹天日	chong2 du3 tian1 ri5	
-重瞳	chong2 tong2	
-重碳酸鈣	chong2 tan4 suan1 gai4	
-重碳酸鹽	chong2 tan4 suan1 yan2	
-重碼詞頻	chong2 ma3 ci2 pin2	
-重穎	chong2 yin3	
-重算	chong2 suan4	
-重組	chong2 zu3	
-重結晶	chong2 jie5 zin1	
-重編	chong2 bian1	
-重編本國語辭典	chong2 bian1 ben3 gue5 yu3 ci2 dian3	
-重繭	chong2 jian3	
-重置價格	chong2 zhi4 jia4 ge5	
-重羅麪	chong2 lo2 mian4	
-重考	chong2 kao3	
-重耳	chong2 er3	
-重聚	chong2 zv4	
-重臺	chong2 tai2	
-重舌	chong2 she5	
-重華	chong2 hua2	
-重華宮	chong2 hua2 gong1	
-重落	chong2 lo5	
-重裀列鼎	chong2 yin1 lie5 din3	
-重裀疊褥	chong2 yin1 die5 ru4	
-重複	chong2 fu5	
-重複啓動效應	chong2 fu5 qi3 dong4 xiao4 yin4	
-重複法	chong2 fu5 fa5	
-重複節	chong2 fu5 zie5	
-重複語境	chong2 fu5 yu3 jin3	
-重複課稅	chong2 fu5 ko4 shui4	
-重覆	chong2 fu5	
-重覆性	chong2 fu5 sin4	
-重見天日	chong2 jian4 tian1 ri5	
-重見複出	chong2 jian4 fu5 chu5	
-重規疊矩	chong2 gui1 die5 ju3	
-重規累矩	chong2 gui1 lui3 ju3	
-重規襲矩	chong2 gui1 syi5 ju3	
-重親	chong2 cin1	
-重訪	chong2 fang3	
-重設	chong2 she5	
-重評	chong2 pin2	
-重譯	chong2 yi5	
-重貼現率	chong2 tie1 xian4 lu5	
-重赴鹿鳴	chong2 fu4 lu5 min2	
-重足側目	chong2 zu5 ce5 mu5	
-重足而立	chong2 zu5 er2 li5	
-重趼	chong2 jian3	
-重蹈	chong2 dao4	
-重蹈覆轍	chong2 dao4 fu5 zhe5	
-重軒	chong2 xuan1	
-重返	chong2 fan3	
-重迭	chong2 die5	
-重述	chong2 shu4	
-重造	chong2 cao4	
-重逢	chong2 fong2	
-重重	chong2 chong2	
-重重疊疊	chong2 chong2 die5 die5	
-重重落落	chong2 chong2 lo5 lo5	
-重門	chong2 men2	
-重門擊柝	chong2 men2 ji5 to5	
-重門深鎖	chong2 men2 shen1 so3	
-重開	chong2 kai1	
-重閨	chong2 gui1	
-重闈	chong2 wei2	
-重關	chong2 guan1	
-重阻	chong2 zu3	
-重陰	chong2 yin1	
-重陽	chong2 yang2	
-重陽日	chong2 yang2 ri5	
-重陽木	chong2 yang2 mu5	
-重陽節	chong2 yang2 zie5	
-重霄	chong2 siao1	
-重霤	chong2 liu4	
-重黎	chong2 li2	
-鋼琴二重奏	gang1 qin2 er4 chong2 zou4	
-隔重肚皮隔重山	ge5 chong2 du4 pi2 ge5 chong2 shan1	
-雙重	shuang1 chong2	
-雙重人格	shuang1 chong2 ren2 ge5	
-雙重國籍	shuang1 chong2 gue5 zyi5	
-雙重標準	shuang1 chong2 biao1 zhun3	
-雙重身分	shuang1 chong2 shen1 fen4	
-非詞重復測驗	fei1 ci2 chong2 fu5 ce5 nian4	
-顧慮重重	gu4 lv4 chong2 chong2	
-食不重味	shi5 bu5 chong2 wei4	
-食不重肉	shi5 bu5 chong2 rou4	
-食不重肉	shi5 bu5 chong2 ru5	
-骨肉重逢	gu5 rou4 chong2 fong2	
-骨肉重逢	gu5 ru5 chong2 fong2	
-高山重嶂	gao1 shan1 chong2 zhang4	
-梁山泊	liang2 shan1 pe5	
-漂泊	piao1 bo5	
-湖泊	hu2 pe5	
-停泊	tin2 bo5	
-泊車	bo5 che1	
-澹泊	dan4 bo5	
-走趲	zou3 zan3	
-長了	zhang3 lo	
-長了	chang2 lo	
-沒	mei1	5%
-沒得	mei1 de5	
-沒得	me1	5%
-沒得	me2 de1	
-愛好	ai4 hao3	
+���	 l u 5 0ck�0	 	 	 	  
+ ��	 f o u 4 �%0�e��0	 	 	 	  
+ �	 f o u 4 �%0�e��0	 	 	 	  
+ �W	 f o u 4 �%0�e��0	 	 	 	  
+ ,D	 c a o 2 �%NT�lÀ�Ni�	 1 0 0 0 	 	 	  
+ �T	 w a 3 	 	 	 	  
+ V	 m e 1 �%�uOU��#l^�	 	 	 	  
+ .�	 d a i 2 	 2 5 0 	 	 	  
+ �A	 d u i 3 �%teyb0hQ�	 1 0 0 0 	 	 	  
+ th	 f u 1 �%0^��p0	 5 0 0 	 	 	  
+ �h	 g a n g 1 �%0R�^�0	 5 0 0 	 	 	  
+ �W	 g e n 4 �%0ck�0	 	 	 	  
+ �x	 k i n �%0�dr�0	 2 	 	 	  
+ Dx	 g u a n g 4 �%�xIQ0JRs^	 	 2 0 0 0 	 	  
+ �{	 h a o 1 	 	 	 	  
+ �q	 p i a o 3 �%kp�q	 1 0 0 0 	 	 	  
+ A�	 h o 1 �%0}v��0	 	 	 	  
+ (�	 z i 2 	 	 	 	  
+ J؃�	 c u 5 �%0}c0[ �t�X�OX[] 	 	 	 	  
+ }c	 c u 5 �%[ �(uW[b_] 	 1 0 0 0 	 	 	  
+ �l	 x i 5 �%0ck�0	 	 	 	  
+ 
+r	 a o 1 �%�q�l�Xcؚ�P	 1 0 0 0 	 	 	  
+ ��	 l i 1 �%(us��d	 1 0 0 0 	 	 	  
+ 7�	 l i 4 �%�-�	 5 0 0 	 	 	  
+ c	 l i a 5 �%�nN0�cxS	 	 	 	  
+ �x	 s u i 4 	 	 	 	  
+ �Q	 l i n 4 	 9 4 	 	 	  
+ 8N	 w a n 2 	 	 	 	  
+ ��	 n i u 4 �%�R0*c�R	 2 0 0 0 	 	 	  
+ �V	 t o 3 �%N�W�v#jP[	 1 0 0 0 	 	 	  
+ ee	 y a n 3 �%�d>e�|+g	 5 0 0 	 	 	  
+ �c	 p a n g 3 �%���x	 2 0 0 0 	 	 	  
+ %R	 p i e 5 	 	 	 	  
+ �z	 p i n 3 �%&N�c0&NR	 1 5 0 0 	 	 	  
+ pK	 p o n g 4 �%b_�[�_��	 	 	 	  
+ �U	 c h u a i 3 	 	 	 	  
+ fb	 c i a n 1 	 	 	 	  
+ !S	 q i a n g 1 �%k u n g �vpu��	 	 	 	  
+ Fh	 q i a n g 1 �%k u n g �vpu��	 	 	 	  
+ �	 q i e 2 �%^�Ƈ0	gpu��	 	 	 	  
+ Mq	 c i u 1 �%Yq�q	 1 0 0 0 	 	 	  
+ ��	 r a n g 3 �%n i � n g �vpu��    	 	 	 	  
+ ��	 r a n g 4 �%^�x�	 	 	 	  
+ �m	 k a o 2 �%b_�[ဂN	 2 0 0 0 	 	 	  
+ [	 s h a n 2 �%�b�^0��ce	 2 0 	 	 	  
+ ˎ	 a 1 	 	 	 	  
+ G�*�	 d u 5 �%0D0[ �t�X�OX[] 	 	 	 	  
+  `	 t a i 3 �%	ga�b�^���NI{�_	 9 4 	 	 	  
+ b	 c h e n 2 	 	 	 	  
+ b	 s h e n 2 	 9 4 	 	 	  
+ y	 l u i 1 �%�n�R	 	 	 	  
+ ��	 k u a n 3 �%0ck�0	 	 	 	  
+ �v	 k u a n 3 �%0ck�0	 	 	 	  
+ �v	 k u a n 3 	 	 	 	  
+ @8	 p i e 4 �%�]0N}Y	 2 0 0 0 	 	 	  
+ �a	 b i e 1 �%0}v��0	 	 	 	  
+ tP	 c e 5 	 	 	 	  
+ tz	 x i e 5 	 	 	 	  
+ 
+�	 w e n 3 �%0ck�0	 	 	 	  
+ 
+�	 w e n 4 �%0ck�0	 	 	 	  
+ Yj	 c e n 2 	 	 	 	  
+ ��	 c u i 1 	 	 	 	  
+ �]	 z i 4 �%0ck�0	 	 	 	  
+ �a	 c h e n 2 	 	 	 	  
+ Aؼ�	 p i n 1 �%kjrRb��Gr	 2 5 0 	 	 	  
+ ��	 s i a n 4 �%��rR	 2 5 0 	 	 	  
+ sa	 k e n 1 �%0^�T0	 2 5 0 	 	 	  
+ .�	 d a i 2 �%0}v��0	 1 0 0 	 	 	  
+ �z	 d o u 3 	 	 	 	  
+ �T	 z o 3 	 	 	 	  
+ ��	 y u n 4 �%0ck�0	 	 	 	  
+ ��	 l i a 2 �%�a�	 1 0 0 0 	 	 	  
+ a�	 z h u a i 4 �%0<^�0	 	 	 	  
+ Ѝ	 z i 1 �%(u�R�O�V�d�b	 1 0 0 0 	 	 	  
+ 	 y u e 1 	 	 	 	  
+ �T	 b i e 1 	 	 	 	  
+ T	 y e 3 	 	 	 	  
+ T	 y e 4 	 	 	 	  
+ �m	 s v a n 2 �%�o z��|�|	 2 0 	 	 	  
+ �7	 s o n g 2 �%0/P0	 	 	 	  
+ x	 c v 4 	 	 	 	  
+ P	 q u 5 	 	 	 	  
+ ]	 q u 5 	 	 	 	  
+ �c	 q u 5 	 	 	 	  
+ =c	 m i a n 3 �%0}v��0	 	 	 	  
+ �T	 k u a 3 �%�U�UNO	 	 	 	  
+ �5	 z u a 4 �%0ZPeU0T�	 	 	 	  
+ �5P[	 z u a 4   z i 3 	 	 	 	  
+ in	 d o n g 2 �%�mԚϞ z	 	 	 	  
+ c	 g a o 4 �%f�	 2 0 0 0 	 	 	  
+ �R	 h u a 1 	 	 	 	  
+ C���	 c i o 3 	 	 	 	  
+ �z	 k u a n 3 �%aSOO	 1 0 0 0 	 	 	  
+ !R	 m i n 3 �%0^�P[0	 2 5 0 	 	 	  
+ Vw	 l e n 4 	 	 	 	  
+ p]	 q i a n 3 	 	 	 	  
+ ye	 l i a o 1 �%+~	 1 0 0 0 	 	 	  
+ �P	 s o u 3 	 	 	 	  
+ W	 l u a n 2 	 	 	 	  
+ 'y	 l u i 3 �%0^�P[0	 	 	 	  
+ �	 p a n g 1 �%0^��0	 	 	 	  
+ Ț	 p a n g 3 	 	 	 	  
+ �P	 b i n 4 	 	 	 	  
+ �	 p a o 1 �%?o�g	 5 0 0 	 	 	  
+ �Y	 c i e 5 	 	 	 	  
+ �Y	 z i e 5 �%0ck�0	 1 0 0 0 	 	 	  
+ y	 p a o 4 	 	 	 	  
+ .�	 d i 4 	 	 	 	  
+ Uc	 b u 4 	 	 	 	  
+ *b	 c v e 5 	 	 	 	  
+ �9	 l a o 3 �%�b0ZP	 2 0 0 0 	 	 	  
+ $o	 l a n 3 �%��,o	 2 0 0 0 	 	 	  
+ ]p	 g a o 4 �%F�Al4l	 1 0 0 0 	 	 	  
+ �	 g o n g 4 �%}�0��6q2�eQ	 2 0 0 0 	 	 	  
+ �u	 h a 1 �%�l���0:R�U	 1 0 0 0 	 	 	  
+ u	 w o n g 1 	 1 0 0 0 	 	 	  
+ D?	 s i 1 �%+~	 1 0 0 0 	 	 	  
+ y�	 g a n g 4 �%0}v��0	 5 0 0 	 	 	  
+ >�	 b i 4 �%�x R	 5 0 0 	 	 	  
+ l�	 p e i 4 	 2 5 0 	 	 	  
+ �	 z h o n g 1 �%d	 1 0 0 0 	 	 	  
+ �d	 z u n 3 �%=g�X	 5 0 0 	 	 	  
+ y	 d u n 3 �%0�x^�0	 	 	 	  
+ 0x	 p o n g 1 	 	 	 	  
+ ��	 h a o 1 	 	 	 	  
+ �d	 x i a o 1 �%�c	 2 0 0 0 	 	 	  
+ :	 d u i 3 	 	 	 	  
+ ��	 l i e 2 	 1 0 0 0 	 	 	  
+ (p	 l a n 2 �%0^�?\0	 1 0 0 0 	 	 	  
+ (p	 l a i 2 �%0^�?\0	 1 0 0 0 	 	 	  
+ N}	 x i n 2 �%N�}�N	 	 	 	  
+ �g&1	 x i r 1 �%��0N�}�N	 	 	 	  
+ >g	 t i n 1 	 	 	 	  
+ �d	 d a o 3 �%D� �	 	 	 	  
+ �T	 l a o 3 �%��#l^�	 1 0 0 0 	 	 	  
+ �d	 z a n 3 �%�y�R�0p��d0	 2 0 0 0 	 	 	  
+ 2d	 w a 3 �% �	 1 0 0 0 	 	 	  
+ �z	 w a 4 �%�Qw�	 1 0 0 0 	 	 	  
+ Oة�	 p a 1 �%0zW0[ �t�X�OX[] 	 	 	 	  
+ Oة�	 p a 2 �%0zW0[ �t�X�OX[] 	 	 	 	  
+ �	 k u i 3 �%0}v��0	 	 	 	  
+ RN	 b i n 3 	 	 	 	  
+ SN	 b o n g 3 	 	 	 	  
+ ka	 c o n g 3 �%0}v��0	 	 	 	  
+ �V	 h o 3 	 	 	 	  
+ �x	 s a n g 3 	 	 	 	  
+ `��	 g u a i 2 �%0�b0[ �t�X�OX[] 	 	 	 	  
+ k	 b o 1 �%0^��j˄0	 	 	 	  
+ �j	 l o 2 �%0k^�˄0	 	 	 	  
+ ��	 k e 5 �%0^���-�&10	 1 0 0 0 	 	 	  
+ �a	 c h o n g 1 �%0"Y^�0	 	 	 	  
+ ��	 b i n 1 	 	 	 	  
+ Z	 l a 1 	 	 	 	  
+ 
+>	 l a i 4 �%�q	 1 0 0 0 	 	 	  
+ %b	 t e n 4 �%�R1z��vM����g�b�^	 1 0 0 0 	 	 	  
+ ̀	 g u a 2 �%��Pg�gP[	 	 	 	  
+ 	R	 g e 4 �%��R	 	 	 	  
+ �d	 d u n 4 �%(u�R>eN	 	 	 	  
+ Fv	 l a o 4 �%N�k	 1 0 0 0 	 	 	  
+ /P	 s o n g 2 �%[ �(uW[b_] 	 1 0 0 0 	 	 	  
+ ʒ	 y u 4 �%�xdIQ�n	 1 0 0 0 	 	 	  
+ K���	 y i n 4 �%ϑ	 5 0 0 	 	 	  
+ �8	 b i e 4 �%)]0�p	 5 0 0 	 	 	  
+ q	 k a o 4 �%(u\kp�q( ܃) 	 5 0 0 	 	 	  
+ s:	 s o n g 4 �%(u�R�c	 5 0 0 	 	 	  
+ h�0�	 p u 5 �%~N���|	 5 0 0 	 	 	  
+ V���	 y a n 4 �%��\OirNP}�[	 5 0 0 	 	 	  
+ XY	 z h u a n g 3 �%Jn�n	 1 0 0 0 	 	 	  
+ �	 t i a o 2 	 	 	 	  
+ �c	 p o u 3 	 	 # x 	 	  
+ ҈	 p o u 3 	 	 # x 	 	  
+ q[	 c h a n 4 	 # x 	 	 	  
+ C���	 k a n g 3 �%�U	 1 0 0 0 	 	 	  
+ C���	 h a n g 3 �%�U	 1 0 0 0 	 	 	  
+ "q	 k o n g 3 	 # x 	 	 	  
+ �	 m e 5 	 	 	 	  
+ �9	 m e n 4 	 	 	 	  
+ %g	 l a o 1 �%0�r^��0	 2 5 0 	 	 	  
+ �w	 m i a o 2 	 	 	 	  
+ Jh	 j i a n 3 	 # x 	 	 	  
+ �U	 g e 5 	 	 # x 	 	  
+ ��	 g e 5 	 	 # x 	 	  
+ ��	 g e 5 	 	 # x 	 	  
+ .�	 q i u 1 	 	 	 	  
+ O{	 p a 5 	 	 	 	  
+ %e	 z u a n 3 	 	 	 	  
+ oO	 s i a n g 2 	 	 	 	  
+ ��	 c u a n 1 �%����	 1 0 0 0 	 	 	  
+ c�d�	 x i 1 �%0U0[ �t�X�OX[] 	 	 	 	  
+ 0�	 w a 1 �%0�^�0	 5 0 0 	 # x 	 	  
+ �	 p i e 3 	 	 # x 	 	  
+ �Q	 p e n 1 �%`�	 2 0 0 0 	 	 	  
+ jU	 p i a 3 	 	 	 	  
+ �o	 c h o 5 	 	 	 	  
+ �V	 l u 1 	 	 	 	  
+ V	 g u 1 	 	 	 	  
+ ��	 q i a n 4 �%ߎ��	 1 0 0 0 	 	 	  
+ 49	 c h e 5 	 	 	 	  
+ �y	 b i e 3 	 	 	 	  
+ �j	 z i a n 1 	 	 	 	  
+ .e	 l a n g 3 	 	 	 	  
+ �@	 z u a n 3 	 	 	 	  
+ �w	 w u 4 	 # x 	 	 	  
+ �w	 m u 5 	 	 	 	  
+ �G	 c e n 3 �%Kb�d@wirԚ	 1 0 0 0 	 	 	  
+ �d	 c e n 4 	 	 	 	  
+ �l	 d a n 3 �%�wBf��nq	 1 0 0 0 	 	 	  
+ �p	 c u 1 �%�Q�l	 	 	 	  
+ Yb	 z a n g 2 �%�dSb	 2 0 0 0 	 # x 	 	  
+ 4~	 q i a n 4 	 # x 	 	 	  
+ �d	 k e o 1 	 	 	 	  
+ �G	 c h e 4 �%JSp�Np��jk�e	 5 0 0 	 	 	  
+ 6	 q u 1 �%���`�`q�	 5 0 0 	 	 	  
+ �U	 w e 3 �%Sb�b|T�v��#l^�	 	 	 	  
+ �X	 l u i 1 	 	 	 	  
+ <	 k e o 5 �%0^�a�0	 	 	 	  
+ �|	 z i u 3 �%�dT	 2 0 0 0 	 	 	  
+ �<	 z i u 4 �%mb�f	 2 0 0 0 	 	 	  
+ �q	 z i a o 4 �%~�xp�vϑ^�	 	 	 	  
+ �R	 q i e 5 	 	 	 	  
+ Nf	 h o n g 1 	 	 	 	  
+ j�	 z h u a i 1 �%̍P	 2 0 0 0 	 	 	  
+ ,~	 z h u 5 �%;�^X0;�^X[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ zW	 p a 1 �%�c)mir�vϑ^�[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ zW	 p a 2 �%�c)mir�vϑ^�[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ ��	 b a i 1 �%ۍ��[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ Cl	 p a 1 �%r�q0�uߎ[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ f@	 c i o 3 �%wPw0�w	 2 0 0 0 	 	 	  
+ �b	 g u a i 2 �%gQkQW[s�[ �(uW[b_] 	 5 0 0 	 	 	  
+ �c	 b e i 3 �%�Nte�6e�b	 1 0 0 0 	 	 	  
+ �c	 p e i 3 �%�Nte�6e�b	 1 0 0 0 	 	 	  
+ �b	 b a 4 �%�s^[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ c	 d o n g 2 �%(u�h*e�R	 1 0 0 0 	 	 	  
+ �b	 q i a 1 �%�d0aS�҉=�[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ @A	 l i a 4 �%�c�yR0u	 2 5 0 	 	 	  
+ �T	 l i a 3 �%��  �]P}	 5 0 0 	 	 	  
+ �x	 t e n 4 �%�h�r�Qw�	 1 0 0 0 	 	 	  
+ �K	 t e n 3 �%[�8|	 2 0 0 0 	 	 	  
+ ؙ	 t a i 3 �%�'Y�Pba	 5 0 0 	 	 	  
+ �	 q i a o 2 �%��b_�FT�PNck8^	 5 0 0 	 	 	  
+ �C	 n i a 1 �%�|���я0�d[[ �(uW[b_] 	 2 0 0 0 	 	 	  
+ v�	 d a i 1 	 	 	 	  
+ �G	 h o u 2 �%������	 	 	 	  
+ l�	 d e n 3 �%^�^��h�:y��P[�_ߍ	 5 0 0 	 	 	  
+ wo	 b i 4 �%N��o	 1 0 0 0 	 	 	  
+ s:	 s o n g 4 �%(u�R�c	 5 0 0 	 	 	  
+ zR	 l i 1 �%(u R�R��	 5 0 0 	 	 	  
+ E�	 c h a 1 �%�m4l	 	 	 	  
+ b	 h u a i 2 	 	 	 	  
+ �b	 g u a 5 	 	 	 	  
+ �T	 d a 3 	 	 	 	  
+ ʕ	 k o 5 	 	 	 	  
+ ؞	 m e 3 	 	 	 	  
+ x	 a 1 �%�d�X0�xT	 2 	 # 	 2 	  
+ �	 a n 2 �%�c,n00O�	 	 	 	  
+ �c	 a n 3 �%�c˄	 2 	 	 	  
+ Of	 a n 4 �%Zf0r�	 	 	 	  
+ �7	 b a 3 �%N\�vRQ��	 	 	 	  
+ K؞�	 b a 4 �%0�b0[ �t�X�OX[] 	 	 	 	  
+ `���	 b a i 1 �%��[ �t�X�OX[] 	 	 	 	  
+ LW	 b e n 4 �%8�	 	 	 	  
+ wo	 b i 5 �%N��o	 	 	 	  
+ �n	 b i a o 1 �%4ltV\	 	 	 	  
+ Ld	 c h a n 3 �%�c�d	 	 # 	 2 	  
+ �	 c h a o 4 �%��R0*e�b	 	 	 	  
+ [d	 c h i 1 �%8O�Q0�c�Q	 	 	 	  
+ ug	 c h u 3 �%��я�FT�z� �����d	 	 	 	  
+ �Q	 c i a n 4 �%�Q�Q	 	 # 	 2 	  
+ �Q	 c i n 4 �%�Q�Q	 	 # 	 2 	  
+ 
+d	 c o u 1 �%�c0vb��c	 	 	 	  
+ Zb	 d i a 1 �%�c	 [ �(uW[b_] 	 	 	  
+ �c	 d i n 4 �%Tb0Sb	 	 	 	  
+ �W	 d o 3 �%Ʌ�S	 	 	 	  
+ �W	 d o 4 �%>en0XMz	 	 	 	  
+ _R	 d o 5 �%ug03b	 1 0 0 0 	 	 	  
+ nO	 g e o 5 �%0^��}00^�N�O0	 	 	 	  
+ ��	 z h u a i 2 �%0^��[0	 	 	 	  
+ 5<	 z v 5 �%8T.T	 1 0 0 0 	 	 	  
+ �T	 a n g 1 �%r����	 	 	 	  
+ �	 z v 1 �%	 	 # 	 2 	  
+ �c	 z o u 4 �%^XOO	 	 	 	  
+ �V	 z i a o 2 �%7_��0�V�	 	 # 	 2 	  
+ �	 z h u a n 3 �%c�0���O0��:R	 	 	 	  
+ Dغ�	 z h u 5 �%,~[ �t�X�OX[] 	 	 	 	  
+ @w	 z h a o 2 �%h�:y���R	 1 0 0 0 	 # 	 5 	  
+ ��	 z h a 3 �%��,o�ܖ�N>en	 	 	 	  
+ SY	 z h a 1 �%5_��	 	 1 0 0 0 	 	  
+ �b	 t o u 3 �%�b�R	 	 	 	  
+ he	 t o u 3 �%OSb��0ce��	 	 	 	  
+ �|	 b a 1 �%�|� N^�ߘir	 	 	 	  
+ D	 d u 5 �%[ �(uW[b_] 	 1 0 0 0 	 	 	  
+ g	 g a 3 �%0^�^�0RQ��c��	 	 	 	  
+ ͍	 g u 1 �%r�	 	 # 	 2 	  
+ w�	 h a n 4 �%w�eQ�Ow�eQ0Sb	 2 	 # 	 2 	  
+ �	 h e o 5 �%�kir:R�o�v��	 	 	 	  
+ �Q	 h u 4 �%��Q�r	 	 	 	  
+ ?W	 j i a 5 �%�v
+N�Wir	 	 	 	  
+ �b	 k a 1 �%�d0aS�҉=�[ �(uW[b_] 	 2 0 0 0 	 	 # 	 2  
+ i7	 k a n g 3 �%˄	 1 0 0 0 	 	 	  
+ *q	 k o n g 3 �%0*q�0	 	 # 	 2 	  
+ .q	 x i n 4 �%�_kp�p	 	 	 	  
+ �	 x i a 5 �%K�N	 2 	 # 	 2 	  
+ 9�	 r u 2 �%^XeQ	 	 # 	 2 	  
+ с	 r u 2 �%�}ߎN�	 	 # 	 2 	  
+ <c	 r u a 2 �%�c	 	 1 0 0 0 	 	  
+ x�	 s a 5 �%�b@w��P[	 	 	 	  
+ U	 x i 1 �%��^�+~	 	 	 	  
+ 7�	 x i a n 2 �%���l	 	 	 	  
+ XY	 z a n g 4 �%�V5_	 2 	 # 	 2 	  
+ !~	 z a i 4 �%�0+~	 	 1 0 0 0 	 	  
+ ͍	 k u 2 �%r�	 	 # 	 2 	  
+ >n	 k u n 2 �%teP�v	 2 	 # 	 3 	  
+ ��	 l a n g 1 �%~N&v	 	 	 	  
+ �P	 l o u 2 �%��b�0%sct	 	 # 	 2 	  
+ b:	 m a 5 �%�b0�d	 1 0 0 0 	 	 	  
+ 69	 m a n g 1 �%FTQ[ �(uW[b_] 	 1 0 0 0 	 	 	  
+ M=	 m e n 4 �%݈�n+o�Q	 1 0 0 0 	 	 	  
+ �l	 m i 4 �%[o4l0}�2�4lψ	 1 0 0 0 	 	 	  
+ #d	 m i e 1 �%�c��	 	 # 	 2 	  
+ #d	 m i e 3 �%�c��	 	 # 	 2 	  
+ o	 n g o 5 �%\��|vu��w�Bf��Bcw�	 	 	 	  
+ i� �	 n i a 1 �%0�C0[ �t�X�OX[] 	 	 	 	  
+ ő	 n i a n 4 �%�o0Ϟ z	 	 	 	  
+ Pص�	 p a 1 �%0Cl0[ �t�X�OX[] 	 	 	 	  
+ �9	 p a i 3 �%5_��ٖ�vݍ�	 	 	 	  
+ �d	 p i e 3 �%N_�b	 	 # 	 2 	  
+ sX	 p o n g 1 �%ppuXۘ�c	 	 # 	 2 	  
+ }o	 p u 2 �%�n�Q	 	 	 	  
+ H	 q i a 2 �%�ek	 	 # 	 2 	  
+ �b	 y u e 1 �%N_�b	 	 	 	  
+ �o	 t i a 3 �%LX<w�v	 	 	 	  
+ q	 c v 1 �%q�q�ckp�g	 	 	 	  
+ �	 c h a n 4 �%d~N�m�TO�O�[	 	 	 	  
+ KD	 n i a n g 4 �%���l	 	 # 	 2 	  
+ KD	 r a n g 4 �%LpeQ0kXEQ	 	 # 	 2 	  
+ sX	 p o n g 2 �%�n	 	 	 	  
+ =b	 h u 4 �%(u�[hVI��y�mԚ��d4l	 	 	 	  
+ �b	 q i a 3 �%5_���Nc�vݍ�	 	 	 	  
+ yc	 b e n 4 �%(u�R�b	 	 	 	  
+ �c	 k a 3 �%�c	 	 	 	  
+ EF	 y a o 1 �%�_-N��Fc.}	 	 	 	  
+ zJ	 w o n g 1 	 	 	 	  
+ WL	 c a n 4 	 	 	 	  
+ 7T	 j u e 5 �%u	 	 	 	  
+ sU	 j u a n 1 �%u	 	 	 	  
+ �5	 t a o 1 �%u	 	 	 	  
+ �{	 z h u 5 �%�Vs���mb�P	 	 	 	  
+ D_	 k o u 1 	 	 	 	  
+ ic	 l i a 4 �%jk�e	 	 	 	  
+ T	 m a n g 1 �%vRQ��	 	 	 	  
+ tM	 y i n 1 	 	 	 	  
+ Lf	 s h a o 3 	 	 	 	  
+ 8�	 d o u 1 �%9h���v��'Y�R	 	 	 	  
+ Cw	 s o 1 �%wPw	 	 	 	  
+ �B	 c u a n 3 �%�s|	 	 	 	  
+ �d	 s v a n 2 �%�b�k	 	 	 	  
+ �c	 l e n 1 �%{c	 	 	 	  
+ @	 q i 1 �%[�<w	 	 	 	  
+ _v	 b i a 3 	 	 	 	  
+ �d	 s a 5 	 	 	 	  
+ @	 q u 1 �%[�<w	 	 	 	  
+ c	 l i e 5 �%�nN0�cxS	 	 	 	  
+ ʎ	 c h e 1 �%I��R	 	 # 	 2 	  
+ ��	 d a 5 �%Td0̍	 	 	 	  
+ w	 f a n 2 �%�}v<w	 	 	 	  
+ ��	 k u a n g 1 �%�T�	 	 	 	  
+ 3d	 h a 2 �%�d0O�N�u	 	 	 	  
+ 3d	 h a 1 �%�d0O�N�u	 	 	 	  
+ �9	 h a 1 �%*e�R0�ce	 	 	 	  
+ x�	 j i a o 3 �%jR	 	 	 	  
+ bz	 w e i 4  
+ �K	 p a 1  
+ f؅�	 l a 1 	  
+ x	 c y i 4  
+ �P	 z i a o 2 �%7_��0�V� 
+ C���	 s h a 4  
+ �	 s h a n g 2 	 	  
+ I�	 s h i 4  
+ ��	 s h i 5 �%�S�� 
+ ��	 s i a o 4  
+ �w	 s h u n 3 愛好	ai4 hao3	
 愛好	ai4 hao4	
 璦琿	ai4 hui1	
 婆娑	ba1 sa1	
@@ -20241,7 +18930,25 @@ import_tables:
 攀胸	
 頗死	
 指甲	zhi3 qia5
-包口煙
+䯲𩮅
+一䯲𩮅
+瓜不褦襶
+潽浪
+一潽浪子
+腳簳
+脚簳
+滿宕宕
+宕宕
+水宕宕
+榨倒
+榨起
+𠿼子
+鼻子築了
+築了
+築起
+築起的
+築倒起
+築倒起了包口煙
 怪糟糟
 慌雞湯
 疤疤
