@@ -7731,7 +7731,7 @@ import_tables:
 野	ye3			
 嘢	ye3			
 夜	ye4			
-液	ye4	2	#	2
+液	ye4
 腋	ye4		#	2
 掖	ye5			
 噎	ye5			
@@ -7842,7 +7842,7 @@ import_tables:
 懿	yi5			
 驛	yi5			
 嗌	yi5		#	2
-液	yi5		#	2
+液	yi5
 腋	yi5	2	#	2
 佚	yi5		#	2
 因	yin1			
@@ -18035,7 +18035,6 @@ import_tables:
 搖滾樂	yao2 gun3 yo5	
 咬卵犟	ao3 luan3 jiang4	
 咬性	ao3 sin4	
-液體	ye4 ti3	
 一片	yi5 pian3	
 一下	yi5 ha4	
 一隻	yi5 zhi1	
