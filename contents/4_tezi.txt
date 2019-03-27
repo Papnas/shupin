@@ -109,3 +109,10 @@
 逆	Cnie2			
 乞	Cqie2			
 七	Cqie2			
+束	Cso2
+粟	Csu2
+俗	Csu2
+族	Cqio2
+菊	Cqio2
+促	Cco2
+猝	Cco2

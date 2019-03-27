@@ -591,8 +591,8 @@
 螺紋鑽	lo2 wen2 zuan4	
 民調	min2 diao4	
 牛回磨轉	niu2 hui2 mo4 zhuan4	
-跑調	pao3diao4	
-平調	pin2diao4	
+跑調	pao3 diao4	
+平調	pin2 diao4	
 腔調	qiang1 diao4	
 強調	qiang2 diao4	
 氫彈	qin2 dan4	
@@ -976,7 +976,7 @@
 詘寸信尺	chu5 cun4 sin4 chi5	
 肉臊	rou4 sao4	
 三隻	san1 zhi1	
-散樂	san3yo5	
+散樂	san3 yo5	
 韶樂	shao2 yo5	
 聲樂	shen1 yo5	
 澠池	mian3 chi2	

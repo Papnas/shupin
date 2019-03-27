@@ -1060,7 +1060,7 @@
 憷	cu4			
 醋	cu4			
 蹙	cu4			
-蹴	cu4			
+蹴	cu2			
 措	cu4			
 酢	cu4		#	2
 促	cu5			
@@ -5371,7 +5371,7 @@
 巰	qiu2			
 賕	qiu2			
 仇	qiu2	2	#	2
-蛐	qu1			
+蛐	qu5			
 嶇	qu1			
 軀	qu1			
 驅	qu1			
@@ -6175,7 +6175,7 @@
 述	shu5			
 沭	shu5			
 術	shu5			
-畜	shu5	2	#	2
+畜	xu5	2	#	2
 唰	shua1		#	3
 耍	shua3			
 廈	shua3		#	3
@@ -8720,7 +8720,7 @@
 鵫	zho5			
 蠗	zho5			
 灂	zho5			
-鐲	zho5			
+鐲	zhu5			
 籗	zho5			
 鷟	zho5			
 籱	zho5			
