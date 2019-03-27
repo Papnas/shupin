@@ -1831,6 +1831,7 @@
 賅	gai1			
 該	gai1			
 階	gai1			
+階	jiai1
 街	gai1			
 皆	gai1		#	2
 改	gai3			
@@ -16587,3 +16588,4 @@
 蔗	zha4			
 湔	zian1			
 虒	ci2			
+階	jiai1
