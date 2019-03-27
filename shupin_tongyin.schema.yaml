@@ -63,7 +63,7 @@ speller:
 #    - xform/([dtlzcs])un/$1en/	#啓用此行表示dtlzcs+un都併入en
     - xform/Ddi/le/	#的字讀音
     - xform/Dqu4/qie4/	#去字讀音
-    - xform/Dlu5/liu2/	#六字讀音
+#    - xform/Dlu5/liu2/	#六字讀音
 
 #通入部分
 #    - xform/^([jqx])u5$/$1io5/	#啓用此行表示通入讀io
@@ -88,8 +88,8 @@ speller:
 #    - xform/5$/1/	#啓用此行表示入派陰平
 
 #戈歌部分
-    - xform/eo([1234])$/o$1/	#啓用此行表示不分舒聲戈歌
-    - xform/eo5/o5/	#啓用此行表示不分入聲戈歌
+#    - xform/eo([1234])$/o$1/	#啓用此行表示不分舒聲戈歌
+#    - xform/eo5/o5/	#啓用此行表示不分入聲戈歌
 
 #入聲部分（岷江適用）注意順序以及配合上方戈歌部分
 #    - xform/ie5/i5/	#啓用此行表示ieq>iq
@@ -121,7 +121,7 @@ speller:
 #    - xform/^([zcs])h/$1/  #啓用此行表示無翹舌
 
 #h、f部分
-    - xform/^hu([12345])$/fu$1/	#hu>fu
+#    - xform/^hu([12345])$/fu$1/	#hu>fu
 #    - xform/^hu([a-z]+)/f$1/	#hu->f-
 
     - xform/D//	#特字標記略去
