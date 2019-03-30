@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: shupin_nibin
+  schema_id: shupin_libin
   name: 蜀拼-宜賓
   version: "0.99"
   author:
@@ -122,7 +122,7 @@ speller:
 
 #h、f部分
     - xform/^hu([12345])$/fu$1/	#hu>fu
-    - xform/^hu([a-z]+)/f$1/	#hu->f-
+#    - xform/^hu([a-z]+)/f$1/	#hu->f-
 
     - xform/ie([1234])$/i$1/
     - xform/ye([1234])$/yi$1/
@@ -215,7 +215,6 @@ translator:
     - xform/^sv/xu/ #sü>xu, sü->xu-
     - xform/^([zcs])h/$1/  #啓用此行表示無翹舌
     - xform/^hu([12345])$/fu$1/ #hu>fu
-    - xform/^hu([a-z]+)/f$1/  #hu->f-
     - xform/ie([1234])$/i$1/
     - xform/ye([1234])$/yi$1/
     - xform/^([zcsr])e([1234])$/$1ei$2/
@@ -298,7 +297,6 @@ reverse_lookup:
     - xform/^sv/xu/ #sü>xu, sü->xu-
     - xform/^([zcs])h/$1/  #啓用此行表示無翹舌
     - xform/^hu([12345])$/fu$1/ #hu>fu
-    - xform/^hu([a-z]+)/f$1/  #hu->f-
     - xform/ie([1234])$/i$1/
     - xform/ye([1234])$/yi$1/
     - xform/^([zcsr])e([1234])$/$1ei$2/
