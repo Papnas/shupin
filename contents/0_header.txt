@@ -7,8 +7,8 @@
 #
 
 ---
-name: tongyinceshi	#名稱
-version: "2018.3.31"	#版本
+name: shupin	#名稱
+version: "2019.3.30"	#版本
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:

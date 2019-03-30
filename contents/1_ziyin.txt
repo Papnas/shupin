@@ -688,7 +688,6 @@
 酲	chen2			
 鋮	chen2			
 忱	chen2		#	2
-忱	chen2	2	#	2
 澄	chen2		#	2
 沈	chen2		#	2
 盛	chen2	2	#	2
@@ -2491,7 +2490,6 @@
 巆	hong2			
 澋	hong3			
 哄	hong3	2	#	3
-哄	hong3		#	3
 嗊	hong4			
 訌	hong4			
 閧	hong4			
@@ -16494,11 +16492,9 @@
 撂	liao4			
 罁	gang1			
 灹	zha4			
-煠	zha5			
 鰕	xia1			
 鰕	ha1			
 蝦	ha2			
-蝦	xia1			
 蝦	ha1			
 懈	xiai4			
 攪	jiao3			
@@ -16538,10 +16534,8 @@
 醱	fa5			
 噀	svn4			
 鶗	ti2			
-鴂	jue5			
 鴃	jue5			
 鶺	zyi5			
-鴒	lin2			
 鸂	qi1			
 鶒	chi5			
 糬	shu3			
@@ -16552,7 +16546,6 @@
 舺	jia5			
 砫	zhu4			
 瞓	xun4			
-盩	zhou1			
 厔	zhi4			
 瘻	lou4			
 疍	dan4			
@@ -16569,11 +16562,9 @@
 䴉	huan2			
 搧	shan1			
 喨	liang4			
-鍼	zhen1			
 銀	yin2			
 趨	cv1			
 膜	mu2			
-腭	eo5			
 銨	an3			
 胺	an4			
 ㄦ	r			

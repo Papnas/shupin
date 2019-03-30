@@ -8,14 +8,14 @@
 
 ---
 name: shupin	#名稱
-version: "2019.3.27"	#版本
+version: "2019.3.30"	#版本
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
-#- tongyinceshi.mas	#四川方言詞典結束、音韻學術語、雜項（所有增補詞彙都放在這）
-#- tongyinceshi.add	#批量收入的語言學術語、化學用語
-#- tongyinceshi.kaomoji	#顏文字測試
-#- tongyinceshi.chengyusinsyiq	#蜀地名
+- tongyinceshi.mas	#四川方言詞典結束、音韻學術語、雜項（所有增補詞彙都放在這）
+- tongyinceshi.add	#批量收入的語言學術語、化學用語
+- tongyinceshi.kaomoji	#顏文字測試
+- tongyinceshi.chengyusinsyiq	#蜀地名
 #- luna_pinyin.base
 #- luna_pinyin.hanyu
 #- luna_pinyin.poetry
@@ -725,7 +725,6 @@ import_tables:
 酲	chen2			
 鋮	chen2			
 忱	chen2		#	2
-忱	chen2	2	#	2
 澄	chen2		#	2
 沈	chen2		#	2
 盛	chen2	2	#	2
@@ -1868,6 +1867,7 @@ import_tables:
 賅	gai1			
 該	gai1			
 階	gai1			
+階	jiai1
 街	gai1			
 皆	gai1		#	2
 改	gai3			
@@ -2527,7 +2527,6 @@ import_tables:
 巆	hong2			
 澋	hong3			
 哄	hong3	2	#	3
-哄	hong3		#	3
 嗊	hong4			
 訌	hong4			
 閧	hong4			
@@ -16530,11 +16529,9 @@ import_tables:
 撂	liao4			
 罁	gang1			
 灹	zha4			
-煠	zha5			
 鰕	xia1			
 鰕	ha1			
 蝦	ha2			
-蝦	xia1			
 蝦	ha1			
 懈	xiai4			
 攪	jiao3			
@@ -16574,10 +16571,8 @@ import_tables:
 醱	fa5			
 噀	svn4			
 鶗	ti2			
-鴂	jue5			
 鴃	jue5			
 鶺	zyi5			
-鴒	lin2			
 鸂	qi1			
 鶒	chi5			
 糬	shu3			
@@ -16588,7 +16583,6 @@ import_tables:
 舺	jia5			
 砫	zhu4			
 瞓	xun4			
-盩	zhou1			
 厔	zhi4			
 瘻	lou4			
 疍	dan4			
@@ -16605,11 +16599,9 @@ import_tables:
 䴉	huan2			
 搧	shan1			
 喨	liang4			
-鍼	zhen1			
 銀	yin2			
 趨	cv1			
 膜	mu2			
-腭	eo5			
 銨	an3			
 胺	an4			
 ㄦ	r			
@@ -16624,7 +16616,7 @@ import_tables:
 蔗	zha4			
 湔	zian1			
 虒	ci2			
-聿	lu5〔正音〕				
+階	jiai1聿	lu5〔正音〕				
 覆	fou4◎〔文讀〕				
 阜	fou4◎〔文讀〕				
 埠	fou4◎〔文讀〕				
@@ -16788,7 +16780,6 @@ import_tables:
 𢳃	yin4◎量	500			
 㢼	bie4◎崩裂、炸裂	500			
 焅	kao4◎用小火燒(菜)	500			
-㩳	song4◎用力推	500			
 𪌰	pu5◎乾麪粉	500			
 𥣘	yan4◎農作物不結實	500			
 奘	zhuang3◎湊滿	1000			
@@ -16849,7 +16840,7 @@ import_tables:
 縬	zhu5◎鼻塞、阻塞[通用字形]	2000			
 坺	pa1◎排洩物的量詞[通用字形]	2000			
 坺	pa2◎排洩物的量詞[通用字形]	2000			
-躄	bai1◎跛足[通用字形]	2000			
+䠋	bai1◎跛足[通用字形]	2000			
 汃	pa1◎爛熟、疲軟[通用字形]	2000			
 䁦	cio3◎偷看、瞅	2000			
 拐	guai2◎內八字腳[通用字形]	500			
@@ -18833,7 +18824,6 @@ import_tables:
 莫得	mo5 de
 莫得	me1
 不得	bu5 de
-不得	be1
 冇得	
 啷個	
 浪個	
@@ -19329,9 +19319,9 @@ import_tables:
 垻垻
 把把
 抪單
-躄躄ㄦ
-躄腳半爪
-躄子
+䠋䠋ㄦ
+䠋腳半爪
+䠋子
 擺街街
 擺攤子
 班輩
@@ -19946,8 +19936,8 @@ import_tables:
 角角子
 腳彎彎
 腳豬
-抲抲
-抲上眼
+㮟㮟
+㮟上眼
 開初
 開黃腔
 揩腳帕
@@ -20242,10 +20232,10 @@ import_tables:
 氣吭八吭
 氣齁八齁
 氣氣
-抲拿
-抲輪子
-抲列子
-抲位
+㮟拿
+㮟輪子
+㮟列子
+㮟位
 䠍尿水ㄦ
 扦擔
 千記
@@ -20457,7 +20447,7 @@ import_tables:
 調羹ㄦ
 條聲吆吆
 條條
-跳躄躄腳
+跳䠋䠋腳
 跳端公
 鐵雞公
 貼心豆瓣ㄦ
@@ -20861,7 +20851,7 @@ import_tables:
 揹揹
 被單戲
 背光
-背抲抲
+背㮟㮟
 背書
 本真
 筆伸
@@ -21791,7 +21781,7 @@ import_tables:
 踡踡ㄦ頭
 捲起舌頭說黃話
 捲心白
-蕨𦸀
+蕨萁
 蕨荊
 腳跟腳
 腳腳
@@ -21800,8 +21790,8 @@ import_tables:
 腳下無鞋一身窮
 腳丫子
 腳子
-抲兒
-抲抲角角
+㮟兒
+㮟㮟角角
 胯胯
 開倉
 開單份ㄦ
@@ -21829,7 +21819,6 @@ import_tables:
 糠頭
 敲敲錢
 睾睾ㄦ
-剋
 客來瘋
 肐膝頭
 客走旺家門
@@ -22280,8 +22269,8 @@ import_tables:
 氣柑
 氣吽吽
 氣是汃的
-抲上眼角
-抲過眼睛
+㮟上眼角
+㮟過眼睛
 牽
 千巴萬補
 千層泥
@@ -23028,7 +23017,7 @@ import_tables:
 造孽巴兮
 竈王菩薩當家
 遮檐
-窄逼窄抲
+窄逼窄㮟
 折折
 蜇蛛抱蛋
 這邊前
@@ -26708,7 +26697,7 @@ import_tables:
 嘴無三日瘡
 醉醺醺的
 巴能不得
-躄躄
+䠋䠋
 辦鍋鍋筵ㄦ
 邦臭
 被人敲
@@ -26803,9 +26792,9 @@ import_tables:
 經不經使
 今鉤ㄦ
 驚拉活扯
-驚鳴吶喴
+驚鳴吶喊
 敬香一柱
-抲角頭
+㮟角頭
 開不起舀
 揩勾子
 嵌肩子
@@ -27059,7 +27048,7 @@ import_tables:
 精精伶伶
 經究
 肫肝
-抲憋
+㮟憋
 開坼
 開消
 看牛兒
@@ -34525,9 +34514,9 @@ B貨
 窊崖腔
 巴離不得
 笆笆壁
-躄腳䠍爪
-躄腳舞爪
-躄腳
+䠋腳䠍爪
+䠋腳舞爪
+䠋腳
 半頭紅
 棒牯兒
 包穀核
