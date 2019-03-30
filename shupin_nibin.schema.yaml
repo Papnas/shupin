@@ -217,6 +217,7 @@ translator:
     - xform/^hu([12345])$/fu$1/ #hu>fu
     - xform/^hu([a-z]+)/f$1/  #hu->f-
     - xform/ie([1234])$/i$1/
+    - xform/ye([1234])$/yi$1/
     - xform/^([zcsr])e([1234])$/$1ei$2/
 
     - xform/^(.*)$/〔$1〕
@@ -299,6 +300,7 @@ reverse_lookup:
     - xform/^hu([12345])$/fu$1/ #hu>fu
     - xform/^hu([a-z]+)/f$1/  #hu->f-
     - xform/ie([1234])$/i$1/
+    - xform/ye([1234])$/yi$1/
     - xform/^([zcsr])e([1234])$/$1ei$2/
 
 
