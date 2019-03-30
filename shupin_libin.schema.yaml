@@ -94,6 +94,7 @@ speller:
 #入聲部分（岷江適用）注意順序以及配合上方戈歌部分
 #    - xform/ie5/i5/	#啓用此行表示ieq>iq
     - xform/i5/ie5/	#啓用此行表示iq>ieq，注意和上行區分
+    - xform/yie5/ye5/
 #    - xform/([gkh])?e5/eo5/	#啓用此行表示喉音eq>eoq
     - xform/ue5/o5/	#啓用此行表示ueq>oq
 #    - xform/ve5/io5/	#啓用此行表示üeq>oq
@@ -201,6 +202,7 @@ translator:
     - xform/eo([1234])$/o$1/  #啓用此行表示不分舒聲戈歌
     - xform/eo5/o5/ #啓用此行表示不分入聲戈歌
     - xform/i5/ie5/ #啓用此行表示iq>ieq，注意和上行區分
+    - xform/yie5/ye5/
     - xform/ue5/o5/ #啓用此行表示ueq>oq
     - xform/u5/o5/  #啓用此行表示uq>oq
     - xform/^zyi/ji/  #zyi>ji
@@ -283,6 +285,7 @@ reverse_lookup:
     - xform/eo([1234])$/o$1/  #啓用此行表示不分舒聲戈歌
     - xform/eo5/o5/ #啓用此行表示不分入聲戈歌
     - xform/i5/ie5/ #啓用此行表示iq>ieq，注意和上行區分
+    - xform/yie5/ye5/
     - xform/ue5/o5/ #啓用此行表示ueq>oq
     - xform/u5/o5/  #啓用此行表示uq>oq
     - xform/^zyi/ji/  #zyi>ji
