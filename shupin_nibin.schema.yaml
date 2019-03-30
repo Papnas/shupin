@@ -101,7 +101,7 @@ speller:
     - xform/u5/o5/	#啓用此行表示uq>oq
 
 #泥來部分
-#    - xform/^ni/li/	#啓用此行表示ni, ni->li, li-
+    - xform/^ni/li/	#啓用此行表示ni, ni->li, li-
 #    - xform/^ni/y/	#啓用此行表示ni->y-
 #    - xform/^ni([12345])$/yi$1/	#啓用此行表示ni>yi
 
@@ -125,6 +125,7 @@ speller:
     - xform/^hu([a-z]+)/f$1/	#hu->f-
 
     - xform/ie([1234])$/i$1/
+    - xform/ye([1234])$/yi$1/
     - xform/^([zcsr])e([1234])$/$1ei$2/
 
     - xform/D//	#特字標記略去
