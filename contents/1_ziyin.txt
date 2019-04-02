@@ -4577,7 +4577,7 @@
 蛑	mou2			
 謀	mou2			
 鍪	mou2			
-毪	mou2			
+毪	mu2			
 繆	mou2	2	#	3
 某	mou3			
 畝	mou3			
@@ -15343,7 +15343,6 @@
 耴	yi5			
 屰	yi5			
 縌	yi5			
-謚	yi5			
 膉	yi5			
 睪	yi5			
 帟	yi5			
