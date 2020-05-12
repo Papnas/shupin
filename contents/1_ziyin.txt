@@ -1158,7 +1158,7 @@
 嗒	da5		#	2
 遝	da5	2	#	2
 呆	dai1			
-獃	dai1			
+獃	ai2			
 歹	dai3			
 逮	dai3			
 傣	dai3			
@@ -16579,3 +16579,5 @@
 湔	zian1			
 虒	ci2			
 階	jiai1
+騃	ai2
+呆	ai2

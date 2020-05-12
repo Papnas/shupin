@@ -9,7 +9,7 @@
 屏住	bin3 zhu4	
 補給	bu3 ji5	
 參差	cen1 ci1	
-扯謊日白	che3 huang3 lia5 be5	
+扯謊挘白	che3 huang3 lia5 be5	
 扯謊日白	che3 huang3 ri5 be5	
 出差	chu5 chai1	
 茜色	cian4 se5	
@@ -719,7 +719,7 @@
 挍鬧鐘	gao4 lao4 zhong1	
 解開	gai3 kai1	
 解手	gai3 shou3	
-咎繇	ziu1 yao2	
+咎繇	gao1 yao2	
 句讀	ju4 dou4	
 可惡	keo3 wu4	
 厭惡	yan3 wu4	
@@ -797,7 +797,7 @@
 探湯	tan4 tang1	
 廈門	xia4 men2	
 山楂	shan1 zha1	
-韶山沖	shao2 shan1 chong4	
+韶山沖	shao2 shan1 chong1	
 少爺	shao4 ye2	
 少女	shao4 nv3	
 少保	shao4 bao3	
@@ -973,7 +973,7 @@
 搶種	ciang3 zhong4	
 清商樂	cin1 shang1 yo5	
 清樂	cin1 yo5	
-詘寸信尺	chu5 cun4 sin4 chi5	
+詘寸信尺	qu5 cun4 shen1 chi5	
 肉臊	rou4 sao4	
 三隻	san1 zhi1	
 散樂	san3 yo5	
@@ -1010,8 +1010,8 @@
 姓曾	sin4 zen1	
 姓繆	sin4 miao4	
 姓隗	sin4 kui1	
-盱眙	yu1 yi1	
-玄奘	xuan2	
+盱眙	xu1 yi2	
+玄奘	xuan2 zang4	
 旋風	svan4 fong1	
 旋子	svan4 zi3	
 噱頭	xio5 tou2	
@@ -1164,7 +1164,7 @@
 副部長	fu4 bu4 zhang3	
 副院長	fu4 yuan4 zhang3	
 劉長卿	liu2 zhang3 qin1	
-助長	zhu4 zhang3	
+助長	zu4 zhang3	
 區長	qu1 zhang3	
 千夫長	cian1 fu1 zhang3	
 參謀總長	can1 mou2 zong3 zhang3	
@@ -1223,7 +1223,7 @@
 成長股	chen2 zhang3 gu3	
 戶長	hu4 zhang3	
 拉名糧長	la1 min2 liang2 zhang3	
-拔苗助長	ba2 miao2 zhu4 zhang3	
+拔苗助長	pa5 miao2 zu4 zhang3	
 挾長	xie5 zhang3	
 排長	pai2 zhang3	
 揠苗助長	ya4 miao2 zu4 zhang3	
@@ -1329,9 +1329,9 @@
 部隊長	bu4 dui4 zhang3	
 鄉長	xiang1 zhang3	
 鄰長	lin2 zhang3	
-酋長	ciu2 zhang3	
-酋長制度	ciu2 zhang3 zhi4 du4	
-酋長國	ciu2 zhang3 guo2	
+酋長	siu2 zhang3	
+酋長制度	siu2 zhang3 zhi4 du4	
+酋長國	siu2 zhang3 guo2	
 里長	li3 zhang3	
 鈞長	jun1 zhang3	
 鋪長	pu4 zhang3	
@@ -1378,8 +1378,8 @@
 長點心眼	zhang3 dian3 sin1 yan3	
 關雲長	guan1 yun2 chang2	
 防長	fang2 zhang3	
-阿拉伯聯合酋長國	a1 la1 be5 lian2 heo5 ciu2 zhang3 gue5	
-阿聯酋長國	a1 lian2 ciu2 zhang3 gue5	
+阿拉伯聯合酋長國	a1 la1 be5 lian2 heo5 siu2 zhang3 gue5	
+阿聯酋長國	a1 lian2 siu2 zhang3 gue5	
 陡長	dou3 zhang3	
 院長	yuan4 zhang3	
 隊長	dui4 zhang3	
