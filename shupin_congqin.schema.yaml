@@ -153,7 +153,8 @@ translator:
     - 'xform io[<,] iô'
     - 'xform io[>\\] iò'
     - 'xform ioq iǒ'
-    - xform (u?|v?|i?)(eo|ui|iu|a|i|u|e|o|v)(i?|o?|u?|n?|ng?|r?)([-;/<,>\\q]) $1$2$4$3
+    - xform (u?|v?|i?)(eo|ui|iu|a|i|u|e|o)(i?|o?|u?|n?|ng?|r?)([-;/<,>\\q]) $1$2$4$3
+    - xform (v)(n)([-;/<,>\\q]) $1$3$2
     - 'xform a[-;] ā'
     - 'xform a/ á'
     - 'xform a[<,] â'
