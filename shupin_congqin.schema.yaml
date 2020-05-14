@@ -103,6 +103,8 @@ speller:
 #泥來部分
     - xform/^ni/li/	#啓用此行表示ni, ni->li, li-
     - xform/^nv/lv/
+    - xform/^lv2/lu2/
+    - xform/^lv4/lui4/
 #    - xform/^ni/y/	#啓用此行表示ni->y-
 #    - xform/^ni([12345])$/yi$1/	#啓用此行表示ni>yi
 
