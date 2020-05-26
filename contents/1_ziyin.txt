@@ -146,7 +146,7 @@
 𧿨	ban3			
 鈑	ban3			
 闆	ban3			
-拚	ban3	2	#	3
+
 半	ban4			
 伴	ban4			
 拌	ban4			
@@ -994,11 +994,11 @@
 愀	ciu1	2	#	2
 湫	ciu1		#	2
 鞧	ciu2			
-鰍	ciu2			
-酋	ciu2			
-遒	ciu2			
-蝤	ciu2			
-囚	ciu2	2	#	2
+鰍	ciu1			
+酋	siu2			
+遒	siu2			
+蝤	siu2			
+
 糗	ciu3			
 搓	co1			
 磋	co1			
@@ -1387,7 +1387,7 @@
 耵	din1			
 飣	din1			
 盯	din1		#	2
-盯	din2		#	2
+
 酊	din3			
 頂	din3			
 鼎	din3			
@@ -1820,7 +1820,7 @@
 嘎	ga2			
 噶	ga3		#	3
 尜	ga4			
-尕	ga4			
+		
 尬	ga4			
 釓	ga5			
 呷	ga5	2	#	2
@@ -3966,7 +3966,7 @@
 劣	lie5		#	2
 捩	lie5		#	2
 裂	lie5		#	2
-拎	lin2			
+拎	lin1			
 林	lin2			
 啉	lin2			
 淋	lin2			
@@ -4053,7 +4053,7 @@
 鎏	liu2			
 騮	liu2			
 鋶	liu2			
-溜	liu2	2	#	2
+
 榴	liu3			
 柳	liu3			
 綹	liu3			
@@ -7487,7 +7487,7 @@
 暄	xuan1			
 煊	xuan1			
 烜	xuan1			
-楦	xuan1			
+			
 弦	xuan2			
 儇	xuan2			
 諼	xuan2			
@@ -8275,7 +8275,7 @@
 舴	ze5			
 嘖	ze5			
 幘	ze5			
-簀	ze5			
+		
 賾	ze5			
 仄	ze5			
 昃	ze5			
@@ -8969,7 +8969,7 @@
 訾	zi3			
 滓	zi3			
 茈	zi3		#	2
-跐	zi3		#	2
+
 仔	zi3	90%	#	3
 自	zi4			
 字	zi4			
@@ -16581,3 +16581,5 @@
 階	jiai1
 騃	ai2
 呆	ai2
+繞	rao4
+溜	liu4
