@@ -16583,4 +16583,6 @@
 呆	ai2
 繞	rao4
 溜	liu4
-傻	sha3
+傻	sha3			
+閑	han2			
+閒	han2
